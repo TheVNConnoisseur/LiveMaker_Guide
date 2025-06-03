@@ -4,7 +4,7 @@ Repository of official tools and information for LiveMaker visual novel engine (
 ### What tools do we have at our disposal?
 Since this repository will focus soly on official tools, we only have two, [LiveMaker](https://livemaker.net/) and [GraphicsGale](https://graphicsgale.com/us/).
 
-- **LiveMaker:** the SDK tool. There are three main revisions of the engine, version 1, 2 and 3. Exclusive to the 1st first version, it was offered a Pro tier, but it only meant that the product generated with the Free version couldn't generate more than a certain amount of money.
+- **LiveMaker:** the SDK tool. There are three main revisions of the engine, version 1, 2 and 3. Exclusive to the 1st first version, it was offered a Pro tier, but it only meant that the product generated with the Free version couldn't generate more than a certain amount of money. In order to use the tool, it is important to also install the sample model offered (any version for that particular engine revision should in theory suffice) in order to create a new project.
 - **GraphicsGale:** the official creator of .GAL images. It is simply an image editor, and a surprisingly complex one for what it is. While it can generate images for different formats, it is advisable to use another program for actual image editing, and leave this one strictly for .GAL creation.
 
 ### How can .GAL images be created?
