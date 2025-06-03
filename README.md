@@ -14,6 +14,6 @@ At the moment, there are 2 officially supported ways to create them:
 
 There is also a DLL library meant to offer support of creation and management of .GAL files in external applications, alongside a C# implementation done by a Spanish developer (endorsed officially by Humanbalance).
 
-### Selecting the correction version for everything
+### Selecting the correct version for everything
 - **LiveMaker:** if you need to work with a pre-existing game, the main executable will tell you the engine revision used.
 - **.GAL:** version 1 of LiveMaker engine tends to use version 1 of .GAL images, while the other 2 used version 2. In case of doubt, check any image of the game you wanna tinker with and check the extension that [GarBro](https://github.com/crskycode/GARbro/) says. If it mentions [GAL], it is version 1, and if it says [GAL/X200], it is version 2.
