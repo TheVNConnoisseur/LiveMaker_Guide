@@ -9,7 +9,7 @@ Since this repository will focus soly on official tools, we only have two, [Live
 
 ### How can .GAL images be created?
 At the moment, there are 2 officially supported ways to create them:
-- **Adobe Photoshop Plugin:** there is a 32-bit only (Adobe Photoshop CC 2018 is the most modern version for Windows that has a 32-bit build) plugin that can create and open files without a problem. If you decide to open a version 2 of a .gal file with version 1 of the tool, the program will crash. When saving an image, it will ask for what kind of compression to use: Normal, No compression, or custom (by selecting a quality factor).
+- **Adobe Photoshop Plugin:** there is a 32-bit only (Adobe Photoshop CC 2018 is the most modern version for Windows that has a 32-bit build) plugin that can create and open files without a problem. If you decide to open a version 2 .gal file with version 1 of the plugin, Adobe Photoshop will crash. When saving an image, it will ask for what kind of compression to use: Normal, No compression, or custom (by selecting a quality factor).
 - **GraphicsGale:** the official tool for the creation of .GAL images. The program is still supported to this day. Sadly, for version 1 of .GAL images, the free tier of this program did not receive the latest update, hence why versions 1.93.25 (free) and 1.93.26 (pro with 30 days trial) are both offered.
 
 There is also a DLL library meant to offer support of creation and management of .GAL files in external applications, alongside a C# implementation done by a Spanish developer (endorsed officially by Humanbalance).
