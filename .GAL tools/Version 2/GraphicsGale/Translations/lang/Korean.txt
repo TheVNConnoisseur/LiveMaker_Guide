@@ -1,0 +1,1010 @@
+[Lang]
+ID=5
+Caption=Korean (한국어)
+Help=GaleUS.chm
+ProportionalFont=MS Sans Serif
+FixedFont=Tahoma
+FontSize=14
+
+[Common]
+Cancel=취소
+Abort=중단
+FileName=파일명
+Compressed=압축
+Compression=압축
+AlphaCh=알파 채널
+WithAlphaCh=알파 채널
+Add=추가
+Edit=편집
+Delete=삭제
+Default=기본값
+Clear=지우기
+Width=너비
+Height=높이
+List=목록
+Antialias=안티앨리어싱
+KeepAspect=종횡비 유지
+Top=상단
+Bottom=하단
+Left=좌측
+Right=우측
+Close=닫기
+Option=옵션
+Folder=폴더
+File=파일
+Drive=드라이브
+FileType=파일 유형
+Size=크기
+Color=색상
+Optimize=최적화
+Quality=품질
+Progressive=진척도
+ColorDepth=색상 농도
+Dither=떨림
+Grayscale=회색조
+TransparentColor=투명색
+Value=값
+Interlaced=비월주사
+Palette=팔레트
+PaletteFile=팔레트 파일
+Comment=주석
+Preset=프리셋
+Separator=구분 기호
+Save=저장
+SaveAs=새로 저장
+Reset=초기화
+MoveUp=상향 이동
+MoveDown=하향 이동
+Sort=정렬
+Path=경로
+Color=색상
+Name=이름
+Hex=16진수
+Delay=지연
+Disposal=처리
+FrameNumber=프레임 수
+FrameName=프레임 이름
+Tolerance=허용 오차
+Fill=채우기
+Opacity=불투명도
+PreserveTransparency=투명성 유지
+Font=글꼴
+Update=업데이트
+Properties=속성
+AllFrames=모든 프레임
+Transparency=투명도
+NoChange=변경 없음
+Back=뒤로
+Next=다음
+Icon=아이콘
+Cursor=커서
+Preview=미리 보기
+Frame=프레임
+Frames=프레임
+All=모두
+Undo=되돌리기
+Redo=다시실행
+MatchPixels=색상과 픽셀 일치
+ColorTable=색상표
+Bitmap=비트맵
+AnimatedCursor=애니메이션 커서
+New=신규
+Open=열기
+View=보기
+Image=이미지
+Capture=캡처
+Window=창
+Tool=도구
+Layer=레이어
+PopupMenu=팝업 메뉴
+Function=기능
+Caption=자막
+bpp=bpp
+BackgroundColor=배경색
+Length=길이
+Loop=루프
+Code=코드
+NumberOfFrames=프레임의 수
+FileSize=파일 크기
+Negative=음화
+Copy=복사
+Paste=붙여넣기
+Move=이동
+MultipleLayers=다중 레이어
+Crop=자르기
+FitImage=이미지에 맞춤
+ColorPalette=색상 팔레트
+Load=불러오기
+Swap=교환
+Input=입력
+Help=도움말
+ActualSize=실제 크기
+ActualSpeed=실제 속도
+Slower=느림
+Slowest=최저속
+Faster=빠름
+Fastest=최고속
+Main=메인
+None=없음
+Toolbar=도구 모음
+Setup=설정
+TrashBox=쓰레기 상자
+Both=둘다
+Dockable=분리형
+CursorCoordinates=커서 좌표
+AutoHide=자동 숨기기
+KeepAwayFromCursor=커서에서 이격을 유지
+StartEdit=편집 시작
+Key=키
+System=시스템
+LoopFirstLast=처음과 마지막으로 루프
+Confirmation=확인
+CurrentFrame=현재 프레임
+SelectedFrames=선택한 프레임
+AlignmentLeft=좌측
+AlignmentCenter=중앙
+AlignmentRight=우측
+
+[Compression]
+Default=기본 압축
+No=압축 없음
+Nonreversible=환원불가 압축
+
+[Magnification]
+Caption=확대
+InitList=목록을 초기화하겠습니까?
+Magnification=확대(%):
+
+[UniteColor]
+Prompt=복제 색상은 다음과 같은 색상으로 채워집니다.
+
+[UnusedColor]
+Prompt=비사용 색상은 다음과 같은 색상으로 채워집니다.
+
+[UniformColor]
+Prompt=이미지의 색상은 1,4,8 bpp 형식으로 통일. 이미지 선택.
+BtnExtract=추출(&E)
+BtnApply=적용(&A)
+BtnReselect=다시 선택(&R)
+TotalIsOver=모든 이미지에서 사용된 색상의 총 수가 최대 색상의 수[%d]를 초과함
+MaxNumber=균일한 색상의 최대 수는 %d 입니다.
+
+[CustomGrid]
+Caption=사용자정의 격자선
+Visible=보이기
+Size=크기:
+
+[Slope]
+Step=단계(&S):
+
+[Hotkey]
+Hotkey=단축키
+
+[Rotate]
+Angle=각도(&A)
+Position=위치
+Center=중앙(&C)
+
+[Resample]
+Smooth=부드럽게(&S)
+ByPixel=픽섹(&P)
+ByPercent=백분율(&E)
+CurSize=현재 크기: 
+
+[RemoveBorder]
+ImageSize=이미지 크기: 
+
+[Register]
+Caption=등록
+SWInfo=이 소프트웨어는 쉐어웨어 임.\n시험 기간은 30일 입니다.\nGraphicsGale를 구입하려면 우리 웹 사이트를 방문.\n\nhttp://www.humanbalance.net/gale/us/
+Name=이름:
+Mail=E-Mail:
+Pass=암호:
+Succeeded=GraphicsGale를 등록해주셔 감사합니다!
+Failed=이름, 전자메일 주소 또는 암호가 잘못되었음.
+Purchase=구매
+Trial=이 소프트웨어는 쉐어웨어 임.\n\n시험 기간은 %d 일에 만료됨
+Expired=시험 기간이 만료되었음.\n\nGraphicsGale를 계속 사용하려면, 소프트웨어를 구입하십시오.
+
+[About]
+Caption=GraphicsGale 정보 (한글화: NamPro)
+Trial=평가판
+License=이 제품 등록자:
+
+[SetAlphaCh]
+Caption=알파 채널 설정
+CreateFrom=생성(&C):
+Source=소스(&S)
+CurrentLayerOnly=현재 레이어 만
+Invert=반대(&I)
+CurrentSelection=현재 선택
+OpaqueColors=불투명 색상
+Luminance=명도
+
+[AVI]
+StartFrame=시작 프레임(&S):
+EndFrame=끝 프레임(&E):
+FrameRate=프레임 속도(&F):
+
+[Batch]
+UnableOpen="%s"를(을) 열 수 없음
+UnableSave="%s"를(을) 저장할 수 없음
+Overwrite=%s\n이미 존재함.\n그것을 덮어쓰겠습니까?
+Input=입력
+Output=출력
+WhenOverwrite=덮어쓸 때(&W):
+Convert=변환(&O)
+OverwriteConfirm=확인
+OverwriteSkip=다음으로 건너뛰기
+OverwriteAny=모든 파일 덮어쓰기
+ResampleOriginal=원본 유지
+ResampleSize=크기 지정
+ResampleSizeAspect=크기 지정 (종횡비 유지)
+ResamplePercent=백분율 지정
+ColorDepthOriginal=원본 유지
+TransparentOriginal=원본 유지
+TransparentNone=투명색 없음
+TransparentValue=값 지정
+TransparentTopLeft=상단 좌측 픽셀 선정
+TransparentTopRight=상단 우측 픽셀 선정
+TransparentBottomLeft=하단 좌측 픽셀 선정
+TransparentBottomRight=하단 우측 픽셀 선정
+BrowseFolder=폴더 찾아보기(&B)...
+SameAsOutput=출력과 동일(&U)
+SameAsInput=입력과 동일(&I)
+
+[AdjustColor]
+Brightness=밝기(&B)
+Contrast=대비(&C)
+GammaCorrection=감마 보정(&G)
+Saturation=채도(&A)
+
+[CombineLayers]
+DeleteOriginal=원래 레이어 삭제(&D)
+MakeAlphaCh=알파 채널 만들기(&M)
+
+[ColorDepth]
+PixelFormat=픽셀 형식(&P)
+Format1=1bpp (2 컬러)
+Format4=4bpp (16 컬러)
+Format8=8bpp (256 컬러)
+Format15=15bpp (하이 컬러)
+Format16=16bpp (하이 컬러)
+Format24=24bpp (전체 색상)
+Colors=색상(&C):
+Algorithm=알고리즘(&A)
+Type=종류
+
+[Cursor]
+HotSpotX=핫스팟 &X:
+HotSpotY=핫스팟 &Y:
+
+[Bookmarks]
+Caption=책갈피
+
+[Effects]
+Amount=용량(&A):
+Synchronize=동기화(&S)
+Noise=노이즈
+Mosaic=모자이크
+Light=밝음
+Buttonize=단추 화
+BorderWidth=테두리 너비(&B):
+Depth=깊이(&D):
+Pressed=누름(&P)
+Original=(원본)
+Blur=흐림
+BlurMore=더 흐림
+Sharpen=선명
+SharpenMore=더 선명
+Noise=노이즈
+Mosaic=모자이크
+FindEdges=가장자리 찾기
+FindEdges2=가장자리2 찾기
+Emboss=엠보스
+EmbossMore=더 엠보스
+Light=밝음
+Spotlight=스포트라이트
+Buttonize=단추 화
+
+[EnlargeCanvas]
+SpecifySize=새 캔버스의 크기를 지정하십시오.
+ImagePosition=이미지 위치:
+
+[Export]
+Type=유형(&T):
+Columns=세로열(&C):
+Prefix=접두사(&P):
+OutputBmp=BMP로 출력(&U)
+FrameProperties=프레임 속성:
+OutputCSV=CSV로 출력(&O)
+MultipleFiles=다중 파일
+CombinedImage=결합 이미지
+
+[Fill]
+Contents=내용
+Use=사용(&U):
+CurrentColor=현재 색상
+PatternFile=패턴(파일)
+PatternClipboard=패턴(클립보드)
+Clear=지우기
+Blending=혼합
+
+[DrawText]
+Styles=스타일:
+Bold=굵게(&B)
+Italic=기울임꼴(&I)
+Underline=밑줄(&N)
+Strikeout=취소선(&R)
+Border=테두리(&O)
+Pitch=피치(&C):
+MixBase=기본 이미지와 혼합(&M)
+Text=텍스트(&E)
+LineSpace=줄 공간(&J):
+Alignment=정렬(&G):
+History=히스토리(&H):
+
+[FontPreset]
+IncludeText=텍스트 포함(&T)
+IncludeColor=색상 포함(&C)
+
+[FrameProperties]
+Delay60=1/60 초 (비디오 게임용)
+Delay100=1/100 초 (GIF 용)
+Delay1000=1/1000 초
+DelayMultiply=곱하기
+DelayAdd=추가
+DisposeNot=지정 안함
+DisposeNo=배치(처리) 안함
+DisposeBG=배경색으로 채우기
+DisposePrev=이전으로 복원
+
+[ImportCombined]
+DividedNum=구분 번호
+PieceSize=조각 크기
+SourceSize=소스 크기:
+
+[ImportMultiple]
+ImportFiles=파일 가져오기(&F):
+
+[LoadPalette]
+Caption=팔레트 불러오기
+DragSelect=선택을 드레그
+ClickPaste=붙여넣기를 클릭
+ImportFile=파일에서 가져오기(&F)...
+ImportClipboard=클립보드에서 가져오기(&C)
+
+[Palette]
+CantSaveFormat=팔레트를 이 형식으로 저장할 수 없음.
+CantLoadFormat=팔레트를 이 형식으로 불러올 수 없음.
+EmptyData=팔레트 데이터가 비었음.
+MenuMakeGradation=그라데이션 만들기
+
+[PasteRGB]
+WhatWay=방법
+PasteFirst=첫 번째 색상으로 붙여넣기(&F)
+PasteSecond=두 번째 색상으로 붙여넣기(&S)
+PasteMulti=첫 번째 색상으로 시작 범위에 다중 색상을 붙여넣기 (&M)
+ColorsInClip=클립보드에 %d 색상
+
+[Print]
+Measure=측정(&M)
+FitPage=페이지에 맞춤(&I)
+PutCenter=중앙에 넣기(&P)
+Copies=사본(&O):
+To=~
+Layout=레이아웃(&A)
+NumberOfPages=페이지의 수:
+
+[Properties]
+SinglePalette=단일 팔레트(&S)
+DisableTransparency=하단 레이어의 투명도를 비활성화(&D)
+Second=초
+MergeAllColorsInUse=사용하는 모든 색상 병합
+MatchPixelWidthColor=현재 색상 적용(색상과 픽셀 일치)
+KeepPixelIndex=현재 색상 적용 (픽셀 색인 유지)
+ColorsInUseAreTooManyToMerge=병합하는데 사용하는 색상이 너무 많음
+
+[Preferences]
+SpaceKey=Space-키
+AltKey=Alt-키
+Assigned=할당
+DuplicateKeys=중복 키
+UseHalftone=감소(느림)할 때 하프톤 사용
+FitWhenMagnifying=확대할 때 창 맞춤
+AutoZoomOpening=파일 열 때 자동 배율
+Min=최소
+Max=최대
+MinMagnificationGrid=격자선을 표시하도록 최소 확대
+GridColor=격자선 색상
+CustomGridColor=사용자정의 격자선 색상
+TaskPriority=작업 우선순위
+High=높음
+AutoStart=자동 시작
+ZoomMouseCursor=마우스 커서 주변의 영역을 확대
+DisplayPenpoint=팬포인터를 표시
+ToolbarWidthHidden=숨김 상태에 도구모음 너비
+ToolbarHideDelay=도구모음 숨기는 지연 시간
+DisableTransparency=하단 레이어의 투명성을 비활성화 (속성의 기본 값)
+NotDialogAddLayer=레이어를 추가하는 대화상자를 보이지 않음
+NotAskDeleteLayer=레이어를 삭제할 때 묻지 않음
+DeleteAlphaChCapture=화면 이미지 캡처에서 알파 채널을 삭제
+SetTransparentPaste=레이어 붙여넣기에서 투명색을 자동으로 설정
+DefaultCanvasColor=기본 캔버스 색상
+Colors4bpp=4bpp (16 컬러)
+Colors8bpp=8bpp (256 컬러)
+ApplySettingPasteNew=새 이미지를 붙여넣기에서 위의 설정을 적용
+NotDialogAddFrame=프레임을 추가할 때 대화상자를 보이지 않음
+NotAskDeleteFrame=프레임을 삭제할 때 묻지 않음
+DefaultBGColor=기본 BG 색상
+FillSelectionSecondColor=두 번째 색상으로 선택을 채우기
+NotEraseSelection=선택에 따라 이미지르 지우지 않음
+PickColorCurrentLayer=선택 선택기의 소스는 현재 레이어 (Shift-키로 전환)
+DefaultColorPalette=기본 색상 팔레트
+ShowColorBalloon=색상 값으로 풍선 팁을 보이기
+PaletteSize=팔레트 인터페이스 크기
+SyncRGBBar=현재 값으로 RGB 바의 색상을 동기화
+ShowGrid=격자선 보이기
+UsageICOTransparency=ICO 투명의 사용량
+TransparentColorFrame=프레임의 투명색
+AlphaChLayer=레이어의 알파 채널
+ReplacementColor=색상 교체
+SupportSusiePlugin=Susie 플러그인 지원 (재시작 필요)
+SetAlphaChHiFulleColor=알파 채널을 15,16,24 bpp 이미지로 설정
+ClearRecentFilenames=최근 파일명 지우기
+JPGQuality=JPG 품질
+OptimizeGIF=최적화 GIF
+Language=언어
+RestartRequired=*재시작 필요함
+AllowMultipleInstances=여러 인스턴스를 허용
+MaximumUndoLevels=최대 되돌리기 수준
+AddParent=부모 추가
+AddSeparator=구분 기호 추가
+DefaultDelay=기본 지연
+SelectionWithRightDrag=우측 드레그로 선택
+PickColorByAltClick=Alt-클릭으로 색상 고르기
+
+[FileDialog]
+BookmarkEdit=목록 편집
+BookmarkAdd=목록에 현재 폴더를 추가
+IconSaveNew=새로 저장
+IconSaveUpdate=업데이트
+IconSaveCustomize=사용자 지정
+Overwrite=덮어쓰기:
+Modified=수정:
+
+[Message]
+LoupeKeepAway=소형 확대경 창은 마우스 커서에서 이격을 유지할 것임.\n창을 잡으려면, Control 키를 누른 상태에서 커서를 가져옴.
+PreviewKeepAway=미리보기 창은 마우스 커서에서 이격을 유지할 것임.\n창을 잡으려면, Control 키를 누른 상태에서 커서를 가져옴.
+UsedColorNumbers=현재 레이어의 고유 색상의 수는 %d 입니다.\n현재 프레임의 고유 색상의 수는 %d 입니다.\n현재 파일의 고유 색상의 수는 %d 입니다.
+MakeGradation=색상 그라데이션은 첫 번째 색상과 두 번째 색상 간이 이루어집니다.
+InitColorPalette=색상 팔레트는 기본 값으로 초기화됩니다.
+CantSeparateAnime=현재 이미지를 분리할 수 없음
+ClipImageNotFit=클립보드의 이미지를 현재 이미지에 맞출 수 없음.
+SelectOutputFolder=출력 폴더를 선택하십시오
+Change8bpp=이미지를  8bpp(256컬러) 형식으로 변경하겠습니까?
+DeleteSelectedFrame=선택한 프레임은 삭제됩니다.
+DeleteLayer=현재 레이어는 삭제됩니다.
+AffectSelectedFrames=이 기능은 모든 선택한 프레임에 영향을 줍니다.
+
+DontShowThisDialogAgain=이 대화상자를 다시 보이지 않기
+PreferencesDeleteHistory=메뉴의 파일에서 모든 최근 파일명을 제거하겠습니까?
+SaveAll=모든 이미지를 디스크에 저장하려고 합니다.
+SaveGifSubBpp=GIF 형식은 하이 컬러와 전체 색상을 지원하지 않음.\n이미지를  8bpp(256컬러) 형식으로 변경하겠습니까?
+ConfirmClose=이 파일이 변경되었음. 변경을 저장하겠습니까?'
+FailedCcreateAVI=AVI 파일을 생성하지 못했음.
+FileBroken=이 파일이 깨졌음.
+DeleteSelected=선택한 항목을 삭제하겠습니까?
+ClearItems=모든 항목을 지우겠습니까?
+SpecifySome="%s"를(을) 지정하십시오.
+LayerLocked=레이어가 잠겼음.
+LayerInvisible=레이어가 보이지 않음.
+TryLatestVer=이 파일을 불러올 수 없음. 최신 버전을 사용해보세요.
+
+[ActionCategory]
+AllFrames=모든 프레임
+Capture=캡처
+Edit=편집
+File=파일
+Frame=프레임
+Help=도움말
+Image=이미지
+Layer=레이어
+PaintMode=페이트 모드
+Palette=팔레트
+Tool=도구
+View=보기
+Window=창
+
+[ActionName]
+AllFramesAdjustColor=색상 조정
+AllFramesColorDepth=색상 농도
+AllFramesCrop=자르기
+AllFramesRemoveBorder=테두리 제거
+AllFramesEnlargeCanvas=캔버스 확장
+AllFramesFitToImage=이미지에 맞춤
+AllFramesFlipHorizontal=수평 뒤집기
+AllFramesFlipVertical=수직 뒤집기
+AllFramesGrayscale=회색조
+AllFramesNegative=음화
+AllFramesResample=리샘플링
+AllFramesRotate=회전
+AllFramesScroll=스크롤
+AllFramesSlope=경사
+CaptureFullScreen=전체 화면
+CaptureHotKeySetup=핫키 설정
+CaptureWindow=창
+EditCopyDisplayImage=표시 이미지 복사
+EditCopy32bpp=복사[32bpp]
+EditCopy=복사
+EditCut=잘라내기
+EditDelete=삭제
+EditDuplicateImages=이미지 복제
+EditFill=채우기
+EditGroupedRedo=그룹 다시실행
+EditGroupedUndo=그룹 되돌리기
+EditImport=가져오기
+EditInvertSelection=선택 영역 반전
+EditMoveSelectionDown=선택 하향 이동
+EditMoveSelectionLeft=선택 좌로 이동
+EditMoveSelectionRight=선택 우로 이동
+EditMoveSelectionUp=선택 위로 이동
+EditPaste=붙여넣기
+EditPasteLayer=레이어 붙여넣기
+EditPasteMove=붙여넣기/이동
+EditPasteNewImage=새 이미지 붙여넣기
+EditPickColorFromCurrentLayer=현재 레이어에서 색상 고르기
+EditPickColor=색상 고르기
+EditPickSecondColorFromCurrentLayer=현재 레이어에서 두 번째 색상 고르기
+EditPickSecondColor=두 번째 색상 고르기
+EditRedo=다시실행
+EditSelectAllLayers=모든 레이어 선택
+EditSelectAll=모두 선택
+EditUndo=되돌리기
+EditModifySelection=선택 영역 수정
+EditExpandSelection=선택 영역 확장
+EditContractSelection=선택 영역 축소
+EditStroke=외곽선
+FileAcquire=수집
+FileBatchConversion=일괄 변환
+FileBrowse=찾아보기
+FileClose=닫기
+FileExit=종료
+FileExport=내보내기
+FileImportFromCombinedImage=결합 이미지에서 가져오기
+FileImportFromMultiFiles=다중 파일에서 가져오기
+FileNew=신규
+FileOpen=열기
+FilePreferences=환경 설정
+FilePrint=인쇄
+FilePrinterSetup=프린터 설정
+FileProperties=속성
+FileSaveACopy=사본 저장
+FileSaveAll=모두 저장
+FileSaveAs=새로 저장
+FileSave=저장
+FileSelectSource=소스 선택
+FrameAdd=추가
+FrameInsertIntoLeft=좌측에 삽입
+FrameInsertIntoRight=우측에 삽입
+FrameBackFrame=프레임 후진
+FrameCopy=복사
+FrameCut=잘라내기
+FrameDelete=삭제
+FrameDuplicate=복제
+FrameDuplicateIntoLeft=좌측에 복제
+FrameDuplicateIntoRight=우측에 복제
+FrameForwardFrame=프레임 전진
+FrameMerge=병합
+FrameMove=프레임 이동
+FramePaste=프레임 붙여넣기
+FramePasteToLeft=좌측에 붙여넣기
+FramePasteToRight=우측에 붙여넣기
+FramePause=일시 중지
+FramePlay=재생
+FrameProperties=속성
+FrameReverse=역순
+HelpAbout=정보
+HelpContents=내용
+ImageAddAlphaChannel=알파 채널 추가
+ImageAdjustColor=색상 조정
+ImageCountColorsUsed=사용한 색상 수
+ImageDeleteAlphaChannel=알파 채널 삭제
+ImageDuplicateAlphaChannel=알파 채널 복제
+ImageEffect=효과
+ImageFlipHorizontal=수평 뒤집기
+ImageFlipVertical=수직 뒤집기
+ImageGrayscale=회색조
+ImageInvertAlphaChannel=알파 채널을 반전
+ImageMakeAlphaChannel=알파 채널 만들기
+ImageNegative=음화
+ImageRotateBy90Degrees=90도 회전
+ImageRotate=회전
+ImageScrollDown=하향 스크롤
+ImageScrollLeft=좌로 스크롤
+ImageScrollRight=우로 스크롤
+ImageScrollUp=상향 스크롤
+ImageScroll=스크롤
+ImageSlope=경사
+LayerAdd=추가
+LayerAlpha=알파 채널 전환
+LayerCombine=결합
+LayerCopy=레이어 복사
+LayerDelete=삭제
+LayerDuplicate=복제
+LayerLock=레이어 잠금
+LayerLockCurrentFrame=현재 프레임의 레이어 잠금
+LayerLockAllLayers=모든 프레임의 레이어 잠금
+LayerLockAllAllLayers=모두 잠금: 모든 레이어
+LayerLockAllCurrentFrameLayers=모두 잠금: 현재 프레임 레이어
+LayerLockTransparentAllLayers=투명 잠금: 모든 레이어
+LayerLockTransparentCurrentFrameLayers=투명 잠금: 현재 프레임 레이어
+LayerNotLockAllLayers=잠금 해제: 모든 레이어
+LayerNotLockCurrentFrameLayers=잠금 해제: 현재 프레임 레이어
+
+LayerMove=레이어 이동
+LayerNextLayer=다음 레이어
+LayerPreviousLayer=이전 레이어
+LayerPropertiesWithSameName=동일 이름의 속성
+LayerProperties=속성
+LayerReverseVisibilityWithSameName=동일 이름으로 역 가시성
+LayerReverseVisibility=가시성 반전
+LayerVisible=가시성 변경
+LayerMoveUp=상향 이동
+LayerMoveDown=하향 이동
+PaintModeClear=지우기
+PaintModeNormal=보통
+PaintModeOpacity=불투명도
+PaletteCopy=색상 복사
+PaletteCopyRGBValue=RGB 값 복사
+PaletteCopyRGBValues=RGB 값 복사
+PaletteDefaultPalette=기본 팔레트
+PaletteDeleteUnused=비사용 색상 제거
+PaletteLoadPalette=팔레트 불러오기
+PaletteMakeGradation=그라데이션 만들기
+PaletteMove=색상 이동
+PalettePasteRGBValue=RGB 값 붙여넣기
+PaletteReloadPenTile=팬/타일 다시 불러오기
+PaletteOpenPenTileFolder=팬/타일 폴더 열기
+PaletteRGB=RGB 조정
+PaletteSavePalette=팔레트 저장
+PaletteSelectTransparentColorToFirstColor=첫 번째 색상으로 투명색 선택
+PaletteSelectTransparentColorToSecondColor=두 번째 색상으로 투명색 선택
+PaletteSwapColor=색상 교환
+PaletteUniformColors=색상 통일
+PaletteUniteDupli=복제 색상 통합
+ToolAntialias=안티앨리어싱
+ToolColorReplacer=색상 교체
+ToolColorSelection=색상 선택
+ToolConnectLine=줄 연결
+ToolFilledOval=채워진 타원형
+ToolFilledRectangle=채워진 직사각형
+ToolFloodFill=꽉 채움
+ToolLasso=올가미
+ToolMagicWand=마법지팡이
+ToolMover=움직임
+ToolOvalSelection=타원형 선택
+ToolOval=타원형
+ToolPen=팬
+ToolRectangle=사각형
+ToolRectangularSelection=사각형 선택
+ToolSplineCurve=스플라인 곡선
+ToolText=텍스트 그리기
+ToolTransparent=투명
+ToolZoom=확대/축소
+ViewActualSize=실제 크기
+ViewFrame=프레임
+ViewGrid=격자선
+ViewHistory=히스토리
+ViewLayer=레이어
+ViewLoupe=소형 확대경
+ViewOnionSkin=Onion 스킨
+ViewPalette=팔레트
+ViewPreview=미리 보기
+ViewSelectedLine=선택한 줄
+ViewSnap=스냅
+ViewToolbarFrame=프레임
+ViewToolbarLayer=레이어
+ViewToolbarMain=메인
+ViewToolbarTool=도구
+ViewZoomInResizeWindow=확대 (창 크기 조정)
+ViewZoomIn=확대
+ViewZoomOutResizeWindow=축소 (창 크기 조정)
+ViewZoomOut=축소
+ViewCustomGrid=사용자정의 격자선 보이기
+WindowArrangeIcons=아이콘 정렬
+WindowCascade=계단식 배열
+WindowCloseAll=모두 닫기
+WindowDuplicate=복제
+WindowFitToImage=이미지에 맞춤
+WindowSeparateAnimatedArea=애니메이션 영역 분리
+WindowTileHorizontal=가로 바둑판식 배열
+WindowTileVertical=수직 바둑판식
+
+[ActionHint]
+AllFramesAdjustColor=색상을 조정하기.
+AllFramesColorDepth=픽셀 형식을 변경하기.
+AllFramesCrop=이미지를 자르기.
+AllFramesRemoveBorder=이미지의 테두리를 제거하기.
+AllFramesEnlargeCanvas=캔버스를 확장하기.
+AllFramesFitToImage=불필요한 가장자리를 삭제하기.
+AllFramesFlipHorizontal=이미지를 수평으로 뒤집기.
+AllFramesFlipVertical=이미지를 수직으로 뒤집기.
+AllFramesGrayscale=회색조로 이미지를 변경하기.
+AllFramesNegative=이미지를 음화로 변경하기.
+AllFramesResample=이미지의 크기를 조정 또는 리샘플.
+AllFramesRotate=이미지를 회전하기.
+AllFramesScroll=이미지를 굴리기.
+AllFramesSlope=이미지를 기울게.
+CaptureFullScreen=전체 화면에서 이미지를 캡처하기.
+CaptureHotKeySetup=캡처에 사용하는 핫키를 변경하기.
+CaptureWindow=창에서 이미지를 캡처하기.
+EditCopyDisplayImage=표시 이미지 복사하기.
+EditCopy32bpp=선택한 영역을 32 bpp 픽셀 형식으로 복사하기.
+EditCopy=선택한 영역을 복사하기.
+EditCut=선택한 영역을 복사 및 삭제하기.
+EditDelete=선택한 영역을 삭제하기.
+EditDuplicateImages=레이어에 각 이미지를 복제.
+EditFill=선택한 영역을 채우기.
+EditGroupedRedo=그룹에서 작업을 다시 실행하기.
+EditGroupedUndo=그룹에서 작업을 되돌리기.
+EditImport=파일에서 이미지를 가져오기.
+EditInvertSelection=선택을 반전.
+EditMoveSelectionDown=선택한 영역을 하단으로 이동하기.
+EditMoveSelectionLeft=선택한 영역을 좌측으로 이동하기.
+EditMoveSelectionRight=선택한 영역을 우측으로 이동하기.
+EditMoveSelectionUp=선택한 영역을 상단으로 이동하기.
+EditPaste=클립보드 데이터를 이미지에 붙여넣기.
+EditPasteLayer=클립보드 데이터를 새 레이어에 붙여넣기.
+EditPasteNewImage=클립보드 데이터에서 새 이미지를 생성하기.
+EditPickColorFromCurrentLayer=현재 레이어에서 커서에 색상을 고르기.
+EditPickColor=커서에 색상 고르기.
+EditPickSecondColorFromCurrentLayer=두 번째 색상으로 현재 레이어에서 커서에 색상을 고르기.
+EditPickSecondColor=두 번째 색상으로 커서에 색상을 고르기.
+EditRedo=작업을 다시 실행하기.
+EditSelectAllLayers=모든 레이어를 선택하기.
+EditSelectAll=모두 선택하기.
+EditUndo=작업을 되돌리기.
+FileAcquire=TWAIN 장치에서 이미지를 가져오기.
+FileBatchConversion=한 번에 다수의 파일을 변환하기.
+FileBrowse=디스크에서 이미지를 찾아보기.
+FileClose=현재 이미지를 닫기.
+FileExit=응용프로그램을 끝내기.
+FileExport=현재 이지를 다른 형식으로 저장하기.
+FileImportFromCombinedImage=결합된 이미지에서 가져오기.
+FileImportFromMultiFiles=다중 파일에서 가져오기.
+FileNew=새 이미지를 만들기.
+FileOpen=이미지 파일을 열기.
+FilePreferences=응용프로그램 환경을 사용자 정의하기.
+FilePrint=이미지를 인쇄하기.
+FilePrinterSetup=프린터 설정을 변경하기.
+FileProperties=이미지 속성을 편집하기.
+FileSaveACopy=현재 이미지의 사본을 저장하기.
+FileSaveAll=모든 이미지를 저장하기.
+FileSaveAs=현재 이미지를 새 파일로 디스크에 저장하기.
+FileSave=현재 이미지를 디스크에 저장하기.
+FileSelectSource=TWAIN 장치를 선택하기.
+FrameAdd=새 프레임을 추가하기.
+FrameInsertIntoLeft=현재 프레임의 좌측에 새 프레임을 삽입하기.
+FrameInsertIntoRight=현재 프레임의 우측에 새 프레임을 삽입하기.
+FrameBackFrame=활성 프레임 이전에 설정하기.
+FrameCopy=선택한 프레임을 복사하기.
+FrameCut=선택한 프레임을 복사 및 삭제하기.
+FrameDelete=선택한 프레임을 삭제하기.
+FrameDuplicate=프레임 복제.
+FrameDuplicateIntoLeft=현재 프레임의 좌측에 프레임을 복제.
+FrameDuplicateIntoRight=현재 프레임의 우측에 프레임을 복제.
+FrameForwardFrame=활성 프레임 다음에 설정하기.
+FrameMerge=현재 이미지에 클립보드에서 프레임을 병합하기.
+FramePasteToLeft=클립보드에서 현재 프레임의 좌측에 붙여넣기.
+FramePasteToRight=클립보드에서 현재 프레임의 우측에 붙여넣기.
+FramePause=미리보기의 애니메이션을 중지하기.
+FramePlay=미리보기의 애니메이션을 재생하기.
+FrameProperties=현재 프레임 속성을 편집하기.
+FrameReverse=프레임의 순서를 역으로 하기.
+HelpAbout=버전 정보를 보이기.
+HelpContents=도움말 파일을 열기.
+ImageAddAlphaChannel=현재 레이어에 알파 채널을 설정하기.
+ImageAdjustColor=이미지의 색상을 조정하기.
+ImageCountColorsUsed=사용된 고유 색상의 수를 산출.
+ImageDeleteAlphaChannel=현재 레이어에서 알파 채널을 삭제하기.
+ImageDuplicateAlphaChannel=알파 채널에서 이미지를 생성하기.
+ImageEffect=이미지에 특수 효과를 추가하기.
+ImageFlipHorizontal=이미지를 수평으로 뒤집기.
+ImageFlipVertical=이미지를 수직으로 뒤집기.
+ImageGrayscale=회색조로 이미지를 변경하기.
+ImageInvertAlphaChannel=현재 레이어에서 알파 채널 반전.
+ImageMakeAlphaChannel=현재 레이어에 알파 채널 만들기.
+ImageNegative=이미지를 음화로 변경하기.
+ImageRotateBy90Degrees=이미지를 90도 회전하기.
+ImageRotate=이미지를 회전하기.
+ImageScrollDown=이미지를 하단으로 굴리기.
+ImageScrollLeft=이미지를 좌측으로 굴리기.
+ImageScrollRight=이미지를 우측으로 굴리기.
+ImageScrollUp=이미지를 상단으로 굴리기.
+ImageScroll=이미지를 굴리기.
+ImageSlope=이미지를 기울게.
+LayerAdd=새 레이어를 추가하기.
+LayerCombine=보이는 레이어를 결합하기.
+LayerDelete=현재 레이어를 삭제하기.
+LayerDuplicate=현재 레이어를 복제.
+LayerLockAllAllLayers=모든 프레임의 레이어를 모두 잠그기.
+LayerLockAllCurrentFrameLayers=현재 프레임의 레이어를 모두 잠그기.
+LayerLockTransparentAllLayers=모든 프레임의 모든 레이어에서 투명 픽셀을 잠그기.
+LayerLockTransparentCurrentFrameLayers=현재 프레임의 모든 레이어에서 투명 픽셀을 잠그기.
+LayerNotLockAllLayers=모든 프레임의 모든 레이어를 잠금 해제하기.
+LayerNotLockCurrentFrameLayers=현재 프레임의 모든 레이어를 잠금 해제하기.
+LayerNextLayer=활성 레이어 다음에 설정하기.
+LayerPreviousLayer=활성 레이어 이전에 설정하기.
+LayerPropertiesWithSameName=동일 이름으로 레이어의 속성을 편집하기.
+LayerProperties=현재 레이어의 속성을 편집하기.
+LayerReverseVisibilityWithSameName=동일 이름으로 레이어의 가시성을 역방향.
+LayerReverseVisibility=모든 프레임의 모든 레이어의 가시성을 역방향.
+LayerMoveUp=현재 레이어를 상향 이동
+LayerMoveDown=현재 레이어를 하향 이동
+PaintModeClear=지우개 모드.
+PaintModeNormal=색칠하기 모드.
+PaintModeOpacity=불투명도 모드.
+PaletteCopyRGBValue=RGB 값을 클립보드에 복사하기.
+PaletteCopyRGBValues=첫 번째 색상과 두 번째 색상 간의 RGB 값을 클립보드에 복사하기.
+PaletteDefaultPalette=컬러 팔레트를 기본 값으로 초기화.
+PaletteDeleteUnused=비사용 색상을 제거하기.
+PaletteLoadPalette=파일에서 컬러 팔레트를 불러오기.
+PaletteMakeGradation=첫 번째 색상과 두 번째 색상 간의 컬러 그라데이션을 만들기.
+PalettePasteRGBValue=클립보드에서 색상 값을 붙여넣기.
+PaletteReloadPenTile=팬 및 타일 파일을 다시 불러오기.
+PaletteOpenPenTileFolder=팬 및 타일 파일에 대한 폴더를 열기.
+PaletteSavePalette=컬러 팔레트를 디스크에 저장하기.
+PaletteSelectTransparentColorToFirstColor=첫 번째 색상으로 현재 레이어의 투명색을 선택하기.
+PaletteSelectTransparentColorToSecondColor=두 번째 색상으로 현재 레이어의 투명색을 선택하기.
+PaletteSwapColor=두 번째 색상에 대해 첫 번째 색상을 교환하기.
+PaletteUniformColors=이미지에 색상을 1,4,8 bpp 형식으로 통일하기.
+PaletteUniteDupli=복제된 색상을 결합하기.
+ToolAntialias=antialias 효과 전환하기.
+ToolColorReplacer=첫 번째 색상으로 두 번째 색상을 교체하기.
+ToolColorSelection=픽셀 선택을 지정된 색상으로 생성하기.
+ToolConnectLine=연결된 선을 그리기.
+ToolFilledOval=채워진 타원형을 그리기.
+ToolFilledRectangle=채워진 사각형을 그리기.
+ToolFloodFill=동일 색상으로 둘러싸인 범위를 채우기.
+ToolLasso=손으로 선택을 생성하기.
+ToolMagicWand=지정한 색상으로 둘러싸인 범위에 선택을 생성하기.
+ToolMover=보이는 영역을 이동하기.
+ToolOvalSelection=타원형 선택을 생성하기.
+ToolOval=타원형 선을 그리기.
+ToolPen=손으로 픽셀을 그리기.
+ToolRectangle=사각형 선을 그리기.
+ToolRectangularSelection=사각형 선택을 생성하기.
+ToolSplineCurve=스플라인으로 선을 그리기.
+ToolText=텍스트를 그리기.
+ToolTransparent=선택한 이미지를 이동할 때 투명 효과 전환하기.
+ToolZoom=확대율을 변경하기.
+ViewActualSize=실제 크기로 이미지를 보기.
+ViewFrame=프레임 창의 가시성을 전환하기.
+ViewGrid=격자선의 가시성을 전환하기.
+ViewHistory=히스토리 창의 가시성을 전환하기.
+ViewLayer=레이어 창의 가시성을 전환하기.
+ViewLoupe=소형 확대경 창의 가시성을 전환하기.
+ViewOnionSkin=Onion 스킨의 가시성을 전환하기.
+ViewPalette=팔레트 창의 가시성을 전환하기.
+ViewPreview=미리보기 창의 가시성을 전환하기.
+ViewSelectedLine=선택 선의 가시성을 전환하기.
+ViewSnap=스냅의 효과를 전환하기.
+ViewToolbarFrame=프레임 도구모음의 가시성을 전환하기.
+ViewToolbarLayer=레이어 도구모음의 가시성을 전환하기.
+ViewToolbarMain=메인 도구모음의 가시성을 전환하기.
+ViewToolbarTool=도구 모음의 가시성을 전환하기.
+ViewZoomInResizeWindow=이미지를 확대하고 창 크기를 조정하기.
+ViewZoomIn=이미지를 확대하기.
+ViewZoomOutResizeWindow=이미지를 축소하고 창 크기를 조정하기.
+ViewZoomOut=이미지를 축소하기.
+ViewCustomGrid=사용자정의 격자선의 가시성을 전환하기.
+WindowArrangeIcons=아이콘을 정렬하기.
+WindowCascade=계단식 창.
+WindowCloseAll=모든 창을 닫기.
+WindowDuplicate=현재 창을 복제.
+WindowFitToImage=이미지에 창을 맞추기.
+WindowSeparateAnimatedArea=이미지를 애니메이션 및 정적 이미지로 분리하기.
+WindowTileHorizontal=창을 수평으로 정렬하기.
+WindowTileVertical=창을 수직으로 정렬하기.
+
+[Browser]
+SearchAaborted=파일의 수가  %d까지 달려 있으므로 검색이 중단되었음.
+SearchingFiles=파일을 검색 중...
+PreviewOperate=드래그=이동 좌클릭=닫기 우클릭=메뉴
+CopyImage=이미지 복사
+CopyPath=경로 복사
+OpenFile=파일 열기
+OpenFolder=폴더 열기
+PauseAnimation=애니메이션 일시 중지
+ForwardFrame=프레임 전진
+BackFrame=프레임 후진
+OpenGale=GraphicsGale로 열기
+ZoomIn=확대
+ZoomOut=축소
+KeepCurrentStatus=현재 상태 유지
+IncludeSubfolder=하위 폴더 포함
+NotIncludeSubfolder=하위 폴더 비포함
+ManageBookmarks=책갈피 관리자
+Jump=이동
+Subfolder=하위폴더
+MaxNumberSearch=검색 가능한 파일의 최대 수
+NotifyNumberReachedMax=최대 수 도달 알림
+MaxFileSizeAnime=애니메이션으로 표시 가능한 최대 파일의 크기
+MagnifySmalImage=작은 이미지를 확대
+RunAnimationAfterAllRead=모든 이미지를 읽은 후 애니메이션을 실행
+AutoZoominPreviewWindow=미리보기 창을 자동으로 확대
+SameFolderExists=동일 폴더가 이미 존재함. 추가하겠습니까?
+MyDocuments=내 문서
+Desktop=바탕화면
+Detail=세부 정보
+Small=소형
+Medium=중간
+Large=대형
+HighQuality=고품질
+BrowseFolder=폴더 찾아보기
+IncludeSubfolder=하위 폴더 포함
+AnimationPreview=애니메니션 미리보기
+Extension=확장명
+Modified=수정일
+Refresh=새로고침
+AddBookmark=책갈피에 추가
+InputNewName=새 이름을 입력
+Rename=이름 변경
+KeepCurrentStatus=현재 상태 유지
+IncludeSubfolder=하위 폴더 포함
+NotIncludeSubfolder=하위 폴더 비포함
+FitImageToWindow=이미지를 창에 맞춤
+
+[Pen]
+Sensitivity=감도
+Desensitize=저감도(&D)
+ExceptWhenMouseButtonIsReleased=마우스 단추를 풀 때 제외(&E)
+
+[Backup]
+Caption=백업
+ErrorFolderNotExist=백업 오류 : 백업용 폴더가 존재하지 않음.
+ErrorCantDeleteFile=백업 오류 : 파일을 삭제할 수 없음.
+ErrorCantRenameFile=백업 오류 : 파일명을 변경할 수 없음.
+ErrorCantCopyFile=백업 오류 : 파일을 복사할 수 없음.
+InitializeBackupFolder=다음과 같은 폴더를 백업용 폴더로 설정했음.\n%s\n백업용 폴더는 환경설정에서 변경할 수 있음.
+CreateBackup=파일을 저장할 때 백업을 생성하기.
+FolderForBackup=백업용 폴더
+Generations=세대의 수
+
+[AutoSave]
+Caption=자동 저장
+ErrorFolderNotExist=자동 저장 오류 : 저동 저장용 폴더가 존재하지 않음.
+SavesAutomaticallyInEdting=편집 중에 자동으로 저장
+FolderForAutoSave=자동 저장용 폴더
+CountOfActionsUntilSave=저장할 때까지 작업의 수
+InClosingAFile=파일 닫기
+DoesNotSave=저장 안함
+SavesAll=모두 저장
+SavesExistentFilesOnly=존재하는 파일만 저장
+
+[ExpandSelection]
+ExpandBy=확장(&E)
+
+[ContractSelection]
+ContractBy=축소(&C)
+
+[Stroke]
+Stroke=외곽선
+Contents=내용(&C):
+Location=위치
+Inside=내부(&I)
+Center=중앙(&C)
+Outside=외부(&O)
+
+[ToolHint]
+AddSelection=선택 추가
+InSquare=정사각형
+MoveVerticallyOrHorizontally=수직 또는 수평으로 이동
+KeepAspectRatio=종횡비 유지
+RotateBy45Degrees=45 도로 회전
+VerticalOrHorizontalLine=수직 또는 수평 선
+StairstepLine=계단 선
+CancelLastVertex=마지막 정점 취소
+PickUpColorFromCurrentLayer=현재 레이어에서 색상을 고르기
+PickUpColorAsSecondColor=두 번째 색상으로 색상을 고르기

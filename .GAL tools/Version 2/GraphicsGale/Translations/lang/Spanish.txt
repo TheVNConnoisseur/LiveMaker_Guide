@@ -1,0 +1,1010 @@
+[Lang]
+ID=4
+Caption=Spanish (by Marcos Martín Pozo Delgado)
+Help=GaleUS.chm
+ProportionalFont=MS Sans Serif
+FixedFont=Courier New
+FontSize=14
+
+[Common]
+Cancel=Cancelar
+Abort=Abortar
+FileName=Nombre de archivo
+Compressed=Comprimido
+Compression=Compresión
+AlphaCh=Canal alfa
+WithAlphaCh=Con canal alfa
+Add=Añadir
+Edit=Editar
+Delete=Borrar
+Default=Por defecto
+Clear=Limpiar
+Width=Ancho
+Height=Alto
+List=Lista
+Antialias=Antialias
+KeepAspect=Mantener ratio de aspecto
+Top=Arriba
+Bottom=Abajo
+Left=Izquierda
+Right=Derecha
+Close=Cerrar
+Option=Opción
+Folder=Carpeta
+File=Archivo
+Drive=Guiar
+FileType=Tipo de archivo
+Size=Tamaño
+Color=Color
+Optimize=Optimizar
+Quality=Calidad
+Progressive=Progresivo
+ColorDepth=Profundidad de color
+Dither=Temblor
+Grayscale=Escala de grises
+TransparentColor=Color transparente
+Value=Valor
+Interlaced=Entrelazado
+Palette=Paleta
+PaletteFile=Archivo de paleta
+Comment=Comentario
+Preset=Prestablecer
+Separator=Separador
+Save=Guardar
+SaveAs=Guardar como
+Reset=Reiniciar
+MoveUp=Mover arriba
+MoveDown=Mover abajo
+Sort=Ordenar
+Path=Ruta
+Color=Color
+Name=Nombre
+Hex=Hex
+Delay=Retardo
+Disposal=Disposición
+FrameNumber=Número de fotograma
+FrameName=Nombre de fotograma
+Tolerance=Tolerancia
+Fill=Rellenar
+Opacity=Opacidad
+PreserveTransparency=Preservar transparencia
+Font=Fuente
+Update=Actualizar
+Properties=Propiedades
+AllFrames=Todos los fotogramas
+Transparency=Transparencia
+NoChange=Ningún cambio
+Back=Atrás
+Next=Siguiente
+Icon=Icono
+Cursor=Cursor
+Preview=Previsualización
+Frame=Fotograma
+Frames=Fotogramas
+All=Todo
+Undo=Deshacer
+Redo=Rehacer
+MatchPixels=Hacer coincidir píxeles con colores
+ColorTable=Tabla de color
+Bitmap=Mapa de bits
+AnimatedCursor=Cursor animado
+New=Nuevo
+Open=Abrir
+View=Ver
+Image=Imagen
+Capture=Capturar
+Window=Ventana
+Tool=Herramientas
+Layer=Capa
+PopupMenu=Menú emergente
+Function=Función
+Caption=Leyenda
+bpp=bits por píxel
+BackgroundColor=Color de fondo
+Length=Longitud
+Loop=Bucle
+Code=Código
+NumberOfFrames=Número de fotogramas
+FileSize=Tamaño de fichero
+Negative=Negativo
+Copy=Copiar
+Paste=Pegar
+Move=Mover
+MultipleLayers=Capas múltiples
+Crop=Cosecha
+FitImage=Ajustar a la imagen
+ColorPalette=Paleta de colores
+Load=Cargar
+Swap=Intercambiar
+Input=Entrada
+Help=Ayuda
+ActualSize=Tamaño real
+ActualSpeed=Velocidad real
+Slower=Más despacio
+Slowest=Lo más despacio
+Faster=Más rápido
+Fastest=Lo más rápido
+Main=Principal
+None=Ninguno
+Toolbar=Barra de herramientas
+Setup=Configuración
+TrashBox=Cuadro de la basura
+Both=Ambos
+Dockable=Acoplable
+CursorCoordinates=Coordenadas del cursor
+AutoHide=Auto ocultar
+KeepAwayFromCursor=Mantener alejado del cursor
+StartEdit=Comenzar edición
+Key=Tecla
+System=Sistema
+LoopFirstLast=Hacer bucle entre el último y el primero
+Confirmation=Confirmación
+CurrentFrame=Fotograma actual
+SelectedFrames=Fotogramas seleccionados
+AlignmentLeft=Izquierda
+AlignmentCenter=Centro
+AlignmentRight=Derecha
+
+[Compression]
+Default=Compresión por defecto
+No=No comprimir
+Nonreversible=Compresión irreversible
+
+[Magnification]
+Caption=Magnificación
+InitList=¿Te gustaría inicializar la lista?
+Magnification=Magnificación(%):
+
+[UniteColor]
+Prompt=Los colores duplicados se rellenarán con el siguiente color
+
+[UnusedColor]
+Prompt=Los colores sin usar se rellenarán con el siguiente color
+
+[UniformColor]
+Prompt=Uniformar los colores en las imágenes de 1, 4 y 8 bits por pulgada. Seleccionar imágenes.
+BtnExtract=&Extraer
+BtnApply=&Aplicar
+BtnReselect=&Reseleccionar
+TotalIsOver=El número total de colores usados en todas las imágenes está por encima del máximo número de colores[%d]
+MaxNumber=El número máximo de colores uniformes es %d
+
+[CustomGrid]
+Caption=Red personalizada
+Visible=Visible
+Size=Tamaño:
+
+[Slope]
+Step=&Paso:
+
+[Hotkey]
+Hotkey=Tecla de acceso directo
+
+[Rotate]
+Angle=&Ángulo
+Position=Posición
+Center=&Centro
+
+[Resample]
+Smooth=&Suave
+ByPixel=&Por píxel
+ByPercent=Por P&orcentaje
+CurSize=Tamaño actual: 
+
+[RemoveBorder]
+ImageSize=Tamaño de imagen: 
+
+[Register]
+Caption=Registrar
+SWInfo=Este software is a shareware.\nEl periodo de prueba es de 30 días.\nVisita nuestra web para comprar GraphicsGale.\n\nhttp://www.humanbalance.net/gale/us/
+Name=Nombre:
+Mail=Correo electrónico:
+Pass=Contraseña:
+Succeeded=¡Gracias por registrar GraphicsGale!
+Failed=El nombre, dirección de correo electrónico o contraseña es incorrecto.
+Purchase=Comprar
+Trial=Este software es a shareware.\n\nEl periodo de pruba expira en %d días
+Expired=El periodo de prueba ha expirado.\n\nSi deseas continuar usando GraphicsGale, por favor compra el software.
+
+[About]
+Caption=Acerca de GraphicsGale
+Trial=Versión de prueba
+License=Este producto está licenciado a:
+
+[SetAlphaCh]
+Caption=Establecer canal alfa
+CreateFrom=&Creado desde:
+Source=&Fuente
+CurrentLayerOnly=Sólo la capa actual
+Invert=&Invertir
+CurrentSelection=Selección actual
+OpaqueColors=Colores opacos
+Luminance=Luminancia
+
+[AVI]
+StartFrame=Fotograma &inicial:
+EndFrame=Fotograma &final:
+FrameRate=&Tasa de fotogramas:
+
+[Batch]
+UnableOpen=No permitir abrir "%s"
+UnableSave=No permitir guardar "%s"
+Overwrite=%s\nya existe.\n¿Quieres sobrescribirlo?
+Input=Entrada
+Output=Salida
+WhenOverwrite=Al &sobrescribir:
+Convert=&Convertir
+OverwriteConfirm=Confirmar
+OverwriteSkip=Saltar al siguiente
+OverwriteAny=Sobrescribir cualquier archivo
+ResampleOriginal=Mantener original
+ResampleSize=Especificar tamaño
+ResampleSizeAspect=Especificar tamaño (Mantener ratio de aspecto)
+ResamplePercent=Especificar porcentaje
+ColorDepthOriginal=Mantener original
+TransparentOriginal=Mantener original
+TransparentNone=Sin color transparente
+TransparentValue=Especificar valor
+TransparentTopLeft=Captar píxel de arriba a la izquierda
+TransparentTopRight=Captar píxel de arriba a la derecha
+TransparentBottomLeft=Captar píxel de abajo a la izquierda
+TransparentBottomRight=Captar píxel de abajo a la derecha
+BrowseFolder=&Buscar carpeta...
+SameAsOutput=La misma que la &salida
+SameAsInput=La misma que la &entrada
+
+[AdjustColor]
+Brightness=&Brillo
+Contrast=&Contraste
+GammaCorrection=Corrección &ganma
+Saturation=S&aturación
+
+[CombineLayers]
+DeleteOriginal=&Borrar capas originales
+MakeAlphaCh=&Crear canal alfa
+
+[ColorDepth]
+PixelFormat=&Formato de píxel
+Format1=1bpp (2 colores)
+Format4=4bpp (16 colores)
+Format8=8bpp (256 colores)
+Format15=15bpp (Gran color)
+Format16=16bpp (Gran Color)
+Format24=24bpp (Color total)
+Colors=&Colores:
+Algorithm=&Algoritmo
+Type=Tipo
+
+[Cursor]
+HotSpotX=Punto caliente &X:
+HotSpotY=Punto caliente &Y:
+
+[Bookmarks]
+Caption=Marcadores
+
+[Effects]
+Amount=&Cantidad:
+Synchronize=&Sincronizar
+Noise=Ruido
+Mosaic=Mosaico
+Light=Luz
+Buttonize=Botonizar
+BorderWidth=Ancho de &borde:
+Depth=Pro&fundidad:
+Pressed=&Presionado
+Original=(Original)
+Blur=Desenfocar
+BlurMore=Desenfocar más
+Sharpen=Afilar
+SharpenMore=Afilar más
+Noise=Ruido
+Mosaic=Mosaico
+FindEdges=Encontrar filos
+FindEdges2=Encontrar filos 2
+Emboss=Realzar
+EmbossMore=Realzar más
+Light=Luz
+Spotlight=Punto de luz
+Buttonize=Botonizar
+
+[EnlargeCanvas]
+SpecifySize=Por favor, especifica el tamaño del nuevo lienzo.
+ImagePosition=Posición de la imagen:
+
+[Export]
+Type=&Tipo:
+Columns=&Columnas:
+Prefix=&Prefijo:
+OutputBmp=Salida como &BMP
+FrameProperties=Propiedades del fotograma:
+OutputCSV=Salida como &CSV
+MultipleFiles=Múltiples ficheros
+CombinedImage=Imagen combinada
+
+[Fill]
+Contents=Contenidos
+Use=&Usar:
+CurrentColor=Color actual
+PatternFile=Patrón (fichero)
+PatternClipboard=Patrón (portapapeles)
+Clear=Limpiar
+Blending=Mezcla
+
+[DrawText]
+Styles=Estilos:
+Bold=&Negrita
+Italic=&Cursiva
+Underline=&Subrayado
+Strikeout=&Tachado
+Border=B&orde:
+Pitch=&Paso:
+MixBase=&Mezclado con la imagen base
+Text=T&exto
+LineSpace=Espaciado de línea(&J):
+Alignment=&Alineación:
+History=&Historia:
+
+[FontPreset]
+IncludeText=Incluir &texto
+IncludeColor=Incluir &color
+
+[FrameProperties]
+Delay60=1/60 s. (for Video-Game)
+Delay100=1/100 s. (for GIF)
+Delay1000=1/1000 s.
+DelayMultiply=Multiplicar
+DelayAdd=Añadir
+DisposeNot=No especificar
+DisposeNo=No disponer
+DisposeBG=Rellenar con color de fondo
+DisposePrev=Restaurar al anterior
+
+[ImportCombined]
+DividedNum=Número dividido
+PieceSize=Tamaño de pieza
+SourceSize=Tamaño de fuente:
+
+[ImportMultiple]
+ImportFiles=Importar &ficheros:
+
+[LoadPalette]
+Caption=Cargar paleta
+DragSelect=Arrastrar a la selección
+ClickPaste=Clic para pegar
+ImportFile=Importar desde &archivo...
+ImportClipboard=Importar desde &portapapeles
+
+[Palette]
+CantSaveFormat=No se puede guardar la paleta en este formato.
+CantLoadFormat=No se puede cargar la paleta en este formato.
+EmptyData=Los datos de la paleta están vacíos.
+MenuMakeGradation=Crear gradación
+
+[PasteRGB]
+WhatWay=Cómo
+PasteFirst=Pegar en el &primer color
+PasteSecond=Pegar en el &segundo color
+PasteMulti=Pegar &múltiples colores en un rango que comienza en el primer color
+ColorsInClip=%d colores en el portapapeles
+
+[Print]
+Measure=&Medida
+FitPage=&Ajustar a la página
+PutCenter=&Poner en el centro
+Copies=&Copias:
+To=A
+Layout=&Disposición
+NumberOfPages=Número de páginas:
+
+[Properties]
+SinglePalette=Paleta &única
+DisableTransparency=&Deshabilitar transparencia en capa de abajo
+Second=segundos
+MergeAllColorsInUse=Fusionar todos los colores en uno
+MatchPixelWidthColor=Aplicar colores actuales (hacer coincidir píxel con color)
+KeepPixelIndex=Aplicar colores actuales (mantener índice de píxel)
+ColorsInUseAreTooManyToMerge=Hay demasiados colores en uso para fusionarlos
+
+[Preferences]
+SpaceKey=Barra espaciadora
+AltKey=Tecla Alt
+Assigned=Asignada
+DuplicateKeys=Teclas duplicadas
+UseHalftone=Usar medios tonos al reducir (lento)
+FitWhenMagnifying=Ajustar ventana al magnificar
+AutoZoomOpening=Auto aumento al abrir archivo
+Min=Mín.
+Max=Máx.
+MinMagnificationGrid=Magnificación mínima para disponer rejilla
+GridColor=Color de rejilla
+CustomGridColor=Personalizar color de rejilla
+TaskPriority=Prioridad de tarea
+High=Alto
+AutoStart=Auto comenzar
+ZoomMouseCursor=Magnificar el área alrededor del cursor
+DisplayPenpoint=Mostrar un boli
+ToolbarWidthHidden=Ancho de la barra de herramientas en estado oculto
+ToolbarHideDelay=Retardo en ocultar barra de herramientas
+DisableTransparency=Deshabilitar transparencia de la capa de abajo (valor por defecto en las propiedades)
+NotDialogAddLayer=No mostrar cuadro de diálogo al añadir capa
+NotAskDeleteLayer=No confirmar al borrar capa
+DeleteAlphaChCapture=Borrar canal alfa al capturar imagen de la pantalla
+SetTransparentPaste=Poner color transparente automáticamente al pegar capa
+DefaultCanvasColor=Color de lienzo por defecto
+Colors4bpp=4bpp (16 colores)
+Colors8bpp=8bpp (256 colores)
+ApplySettingPasteNew=Aplicar la configuración anterior al pegar nueva imagen
+NotDialogAddFrame=No mostrar cuadro de diálogo al añadir fotograma
+NotAskDeleteFrame=No confirmar al borrar fotograma
+DefaultBGColor=Color de fondo por defecto
+FillSelectionSecondColor=Rellenar selección con color secundario
+NotEraseSelection=No borrar imagen bajo selección
+PickColorCurrentLayer=La fuente del recogedor de color es la capa actual (cambiada mediante la tecla Shift)
+DefaultColorPalette=Paleta de color por defecto
+ShowColorBalloon=Mostrar mensaje con valor de color
+PaletteSize=Tamaño de la paleta
+SyncRGBBar=Sincronizar valor de la barra RGB con valor actual
+ShowGrid=Mostrar rejilla
+UsageICOTransparency=Uso de la transparencia ICO
+TransparentColorFrame=Color transparente del fotograma
+AlphaChLayer=Canal alfa de la capa
+ReplacementColor=Color de remplazo
+SupportSusiePlugin=Soportar plug-in Susie (se necesita reiniciar)
+SetAlphaChHiFulleColor=Poner canal alfa a imagen de 15, 16 y 24 bpp
+ClearRecentFilenames=Limpiar nombres de archivos recientes
+JPGQuality=Calidad JPG
+OptimizeGIF=Optimizar GIF
+Language=Idioma
+RestartRequired=*Necesario reiniciar
+AllowMultipleInstances=Permitir múltiples instancias
+MaximumUndoLevels=Máximo número de deshacer
+AddParent=Añadir padre
+AddSeparator=Añadir separador
+DefaultDelay=Retardo por defecto
+SelectionWithRightDrag=Selección arrastrando con botón secundario
+PickColorByAltClick=Recoger mediante Alt-Clic
+
+[FileDialog]
+BookmarkEdit=Lista de edición
+BookmarkAdd=Añadir carpeta actual a la lista
+IconSaveNew=Guardar de nuevo
+IconSaveUpdate=Actualizar
+IconSaveCustomize=Personalizar
+Overwrite=Sobrescribir:
+Modified=Modificado:
+
+[Message]
+LoupeKeepAway=La ventana de lupa desaparecerá del cursor.\nPara coger la ventana, mantener presionada la tecla Control y poner el cursor.
+PreviewKeepAway=a ventana de previsualización desaparecerá del cursor.\nPara coger la ventana, mantener presionada la tecla Control y poner el cursor.
+UsedColorNumbers=El número de colores únicos en la capa actual es %d.\nEl número de colores únicos en el fotograma actual es %d.\nEl número de colores únicos en el archivo es %d.
+MakeGradation=La gradación de color se hará entre el primer y el segundo color.
+InitColorPalette=La paleta de colores se inicializará a los valores por defecto.
+CantSeparateAnime=No se puede separar la imagen actual
+ClipImageNotFit=La imagen del portapapeles no se ajusta a la imagen actual.
+SelectOutputFolder=Por favor, selecciona una carpeta de salida
+Change8bpp=¿Te gustaría cambiar la imagen a 8bpp(256colors)?
+DeleteSelectedFrame=Los fotogramas seleccionados se borrarán.
+DeleteLayer=La capa actual se borrará.
+AffectSelectedFrames=Esta función afectará a todos los fotogramas seleccionados.
+
+DontShowThisDialogAgain=No mostrar este diálogo de nuevo
+PreferencesDeleteHistory=¿Te gustaría borrar todos los nombres de archivos recientes del menú Arhivo?
+SaveAll=Todas las imágenes se van a guardar en disco.
+SaveGifSubBpp=El formato GIF no soporta gran color ni color total.\¿Debería cambiar la imagen a 8 bpp?
+ConfirmClose=Este fichero ha sido modificado. ¿Te gustaría guardar los cambios?
+FailedCcreateAVI=Falló la creación de un fichero AVI.
+FileBroken=Este fichero está corrupto.
+DeleteSelected=¿Quieres borrar el objeto seleccionado?
+ClearItems=¿Quieres borrar todos los objetos?
+SpecifySome=Por favor, especifica "%s".
+LayerLocked=La capa está bloqueada.
+LayerInvisible=La capa es invisible.
+TryLatestVer=No se puede cargar este fichero. Prueba la última versión.
+
+[ActionCategory]
+AllFrames=Todos los fotogramas
+Capture=Capturar
+Edit=Editar
+File=Archivo
+Frame=Fotograma
+Help=Ayuda
+Image=Imagen
+Layer=Capa
+PaintMode=Modo de pintado
+Palette=Paleta
+Tool=Herramientas
+View=Ver
+Window=Ventana
+
+[ActionName]
+AllFramesAdjustColor=Ajustar color
+AllFramesColorDepth=Profundidad de color
+AllFramesCrop=Cosecha
+AllFramesRemoveBorder=Eliminar borde
+AllFramesEnlargeCanvas=Agrandar lienzo
+AllFramesFitToImage=Ajustar a la imagen
+AllFramesFlipHorizontal=Voltear horizontalmente
+AllFramesFlipVertical=Voltear verticalmente
+AllFramesGrayscale=Escala de grises
+AllFramesNegative=Negativo
+AllFramesResample=Volver a mostrar
+AllFramesRotate=Rotar
+AllFramesScroll=Desplazamiento
+AllFramesSlope=inclinar
+CaptureFullScreen=Pantalla completa
+CaptureHotKeySetup=Configuración de teclas de acceso rápido
+CaptureWindow=Ventana
+EditCopyDisplayImage=Copiar imagen mostrada
+EditCopy32bpp=Copiar[32bpp]
+EditCopy=Copiar
+EditCut=Cortar
+EditDelete=Borrar
+EditDuplicateImages=Duplicar imagen(es)
+EditFill=Rellenar
+EditGroupedRedo=Rehacer agrupado
+EditGroupedUndo=Deshacer agrupado
+EditImport=Importar
+EditInvertSelection=Invertir selección
+EditMoveSelectionDown=Mover selección abajo
+EditMoveSelectionLeft=Mover selección a la izquierda
+EditMoveSelectionRight=Mover selección a la derecha
+EditMoveSelectionUp=Mover selección arriba
+EditPaste=Pegar
+EditPasteLayer=Pegar capa
+EditPasteMove=Pegar/mover
+EditPasteNewImage=Pegar nueva imagen
+EditPickColorFromCurrentLayer=Recoger color desde la capa actual
+EditPickColor=Recoger color
+EditPickSecondColorFromCurrentLayer=Recoger color secundario desde la capa actual
+EditPickSecondColor=Recoger color secundario
+EditRedo=Rehacer
+EditSelectAllLayers=Seleccionar todas las capas
+EditSelectAll=Seleccionar todo
+EditUndo=Deshacer
+EditModifySelection=Modificar selección
+EditExpandSelection=Expandir selección
+EditContractSelection=Contraer selección
+EditStroke=Trazo
+FileAcquire=Adquirir
+FileBatchConversion=Conversión por lotes
+FileBrowse=Buscar
+FileClose=Cerrar
+FileExit=Salir
+FileExport=Exportar
+FileImportFromCombinedImage=Importar desde imagen combinada
+FileImportFromMultiFiles=Importar desde múltiples archivos
+FileNew=Nuevo
+FileOpen=Abrir
+FilePreferences=Preferencias
+FilePrint=Imprimir
+FilePrinterSetup=Preferencias de impresión
+FileProperties=Propiedades
+FileSaveACopy=Guardar una copia
+FileSaveAll=Guardar todo
+FileSaveAs=Guardar como
+FileSave=Guardar
+FileSelectSource=Seleccionar fuente
+FrameAdd=Añadir
+FrameInsertIntoLeft=Insertar a la izquierda
+FrameInsertIntoRight=Insertar a la derecha
+FrameBackFrame=Enviar fotograma atrás
+FrameCopy=Copiar
+FrameCut=Cortar
+FrameDelete=Borrar
+FrameDuplicate=Duplicar
+FrameDuplicateIntoLeft=Duplicar a la izquierda
+FrameDuplicateIntoRight=Duplicar a la derecha
+FrameForwardFrame=Enviar fotogram adelante
+FrameMerge=Fusionar
+FrameMove=Mover fotograma
+FramePaste=Pegar fotogramas
+FramePasteToLeft=Pegar a la izquierda
+FramePasteToRight=Pegar a la derecha
+FramePause=Pausar
+FramePlay=Reproducir
+FrameProperties=Propiedades
+FrameReverse=Invertir
+HelpAbout=Acerca de
+HelpContents=Contenidos
+ImageAddAlphaChannel=Añadir canal alfa
+ImageAdjustColor=Ajustar color
+ImageCountColorsUsed=Contar colores usados
+ImageDeleteAlphaChannel=Borrar canal alfa
+ImageDuplicateAlphaChannel=Duplicar canal alfa
+ImageEffect=Efectos
+ImageFlipHorizontal=Voltear horizontalmente
+ImageFlipVertical=Voltear verticalmente
+ImageGrayscale=Escala de grises
+ImageInvertAlphaChannel=Invertir canal alfa
+ImageMakeAlphaChannel=Crear canal alfa
+ImageNegative=Negativo
+ImageRotateBy90Degrees=Rotar 90 grados
+ImageRotate=Rotar
+ImageScrollDown=Desplazar abajo
+ImageScrollLeft=Desplazar a la izquierda
+ImageScrollRight=Desplazar a la derecha
+ImageScrollUp=Desplazar arriba
+ImageScroll=Desplazar
+ImageSlope=inclinar
+LayerAdd=Añadir
+LayerAlpha=Cambiar canal alfa
+LayerCombine=Combinar
+LayerCopy=Copiar capa
+LayerDelete=Borrar
+LayerDuplicate=Duplicar
+LayerLock=Bloquear capa
+LayerLockCurrentFrame=Bloquear capas en el fotograma actual
+LayerLockAllLayers=Bloquear capas en todos los fotogramas
+LayerLockAllAllLayers=Bloquear todo: todas las capas
+LayerLockAllCurrentFrameLayers=Bloquear todo: capas del fotograma actual
+LayerLockTransparentAllLayers=Bloquear transparencia: todas las capas
+LayerLockTransparentCurrentFrameLayers=Bloquear transparencia: capas del fotograma actual
+LayerNotLockAllLayers=Desbloquear: todas las capas
+LayerNotLockCurrentFrameLayers=Desbloquear: todas las capas del fotograma actual
+
+LayerMove=Mover capa
+LayerNextLayer=Capa siguiente
+LayerPreviousLayer=Capa anterior
+LayerPropertiesWithSameName=Propiedades con el mismo nombre
+LayerProperties=Propiedades
+LayerReverseVisibilityWithSameName=Invertir visibilidad con el mismo nombre
+LayerReverseVisibility=Invertir visibilidad
+LayerVisible=Cambiar visibilidad
+LayerMoveUp=Mover arriba
+LayerMoveDown=Mover abajo
+PaintModeClear=Limpiar
+PaintModeNormal=Normal
+PaintModeOpacity=Opacidad
+PaletteCopy=Copiar colores
+PaletteCopyRGBValue=Copiar valor RGB
+PaletteCopyRGBValues=Copiar valores RGB
+PaletteDefaultPalette=Paleta por defecto
+PaletteDeleteUnused=Eliminar colores sin usar
+PaletteLoadPalette=Cargar paleta
+PaletteMakeGradation=Crear gradación
+PaletteMove=Mover color
+PalettePasteRGBValue=Pegar valor RGB
+PaletteReloadPenTile=Recargar boli/baldosa
+PaletteOpenPenTileFolder=Abrir carpeta de boli/baldosa
+PaletteRGB=Ajustar RGB
+PaletteSavePalette=Guardar paleta
+PaletteSelectTransparentColorToFirstColor=Seleccionar color transparente como primer color
+PaletteSelectTransparentColorToSecondColor=Seleccionar color transparente como segundo color
+PaletteSwapColor=Intrcambiar color
+PaletteUniformColors=Colores uniformes
+PaletteUniteDupli=Unir colores duplicados
+ToolAntialias=Antialias
+ToolColorReplacer=Sustituto de color
+ToolColorSelection=Selección de color
+ToolConnectLine=Línea de conexión
+ToolFilledOval=Óvalo relleno
+ToolFilledRectangle=Rectángulo relleno
+ToolFloodFill=Rellenar
+ToolLasso=Lazo
+ToolMagicWand=Varita mágica
+ToolMover=Mover
+ToolOvalSelection=Selección ovalada
+ToolOval=Óvalo
+ToolPen=Boli
+ToolRectangle=Rectángulo
+ToolRectangularSelection=Selección rectangular
+ToolSplineCurve=Curva spline
+ToolText=Dibujar texto
+ToolTransparent=Transparente
+ToolZoom=Zoom
+ViewActualSize=Tamaño actual
+ViewFrame=Fotograma
+ViewGrid=Rejilla
+ViewHistory=Historia
+ViewLayer=Capa
+ViewLoupe=Lupa
+ViewOnionSkin=Piel de cebolla
+ViewPalette=Paleta
+ViewPreview=Previsualización
+ViewSelectedLine=Línea seleccionada
+ViewSnap=Tomar una foto
+ViewToolbarFrame=Fotograma
+ViewToolbarLayer=Capa
+ViewToolbarMain=Principal
+ViewToolbarTool=Herramientas
+ViewZoomInResizeWindow=Aumentar aumentos (cambiar tamaño de ventana)
+ViewZoomIn=Aumentar aumentos
+ViewZoomOutResizeWindow=Disminuir aumentos (cambiar tamaño de ventana)
+ViewZoomOut=Disminuir aumentos
+ViewCustomGrid=Mostrar rejillas personalizadas
+WindowArrangeIcons=Organizar iconos
+WindowCascade=Cascada
+WindowCloseAll=Cerrar todas
+WindowDuplicate=Duplicar
+WindowFitToImage=Ajustar a la imagen
+WindowSeparateAnimatedArea=Área animada separada
+WindowTileHorizontal=Baldosa horizontal
+WindowTileVertical=Baldosa vertical
+
+[ActionHint]
+AllFramesAdjustColor=Ajustar color.
+AllFramesColorDepth=Cambiar formato de píxel.
+AllFramesCrop=Cosechar la imagen.
+AllFramesRemoveBorder=Eliminar bordes de la imagen.
+AllFramesEnlargeCanvas=Aumentar tamaño de lienzo.
+AllFramesFitToImage=Borrar bordes innecesarios.
+AllFramesFlipHorizontal=Voltear la imagen horizontalmente.
+AllFramesFlipVertical=Voltear la imagen verticalmente.
+AllFramesGrayscale=Cambiar la imagen a escala de grises.
+AllFramesNegative=Cambiar la imagen a negativo.
+AllFramesResample=Redimensionar o volver a mostrar la imagen.
+AllFramesRotate=Rotar la imagen.
+AllFramesScroll=Desplazar la imagen.
+AllFramesSlope=Inclinar la imagen.
+CaptureFullScreen=Capturar imagen desde pantalla completa.
+CaptureHotKeySetup=Cambiar teclas de acceso rápido.
+CaptureWindow=Capturar imagen desde la ventana.
+EditCopyDisplayImage=Copiar imagen mostrada.
+EditCopy32bpp=Copiar área seleccionada como imagen de 32 bpp.
+EditCopy=Copiar área seleccionada.
+EditCut=Copiar y borrar área seleccionada.
+EditDelete=Borrar área seleccionada.
+EditDuplicateImages=Duplicar cada imagen en todas las capas.
+EditFill=Rellenar área seleccionada.
+EditGroupedRedo=Rehacer acciones en grupo.
+EditGroupedUndo=Deshacer acciones en grupo.
+EditImport=Importar una imagen desde un archivo.
+EditInvertSelection=Invertir selección.
+EditMoveSelectionDown=Mover área seleccionada abajo.
+EditMoveSelectionLeft=Mover área seleccionada a la izquierda.
+EditMoveSelectionRight=Mover área seleccionada a la derecha.
+EditMoveSelectionUp=Mover área seleccionada arriba.
+EditPaste=Pegar portapapeles a la imagen.
+EditPasteLayer=Pegar portapapeles a una nueva capa.
+EditPasteNewImage=Crear una nueva imagen desde el portapapeles.
+EditPickColorFromCurrentLayer=Recoger color del cursor desde la capa actual.
+EditPickColor=Recoger color del cursor.
+EditPickSecondColorFromCurrentLayer=Recoger color del cursor desde la capa actual como color secundario.
+EditPickSecondColor=Recoger color del cursor como color secundario.
+EditRedo=Rehacer una acción.
+EditSelectAllLayers=Seleccionar todas las capas.
+EditSelectAll=Seleccionar todo.
+EditUndo=Deshacer una acción.
+FileAcquire=Adquirir una imagen desde un dispositivo TWAIN.
+FileBatchConversion=Convertir varios archivos al mismo tiempo.
+FileBrowse=Buscar imágenes en disco.
+FileClose=Cerrar imagen actual.
+FileExit=Salir de la aplicación.
+FileExport=Guardar imagen actual en otro formato.
+FileImportFromCombinedImage=Importar desde una imagen combinada.
+FileImportFromMultiFiles=Importar desde múltiples archivos.
+FileNew=Crear una nueva imagen.
+FileOpen=Abrir un archivo de imagen.
+FilePreferences=Personalizar entorno de la aplicación.
+FilePrint=Imprimir la iamgen.
+FilePrinterSetup=Cambiar tus preferencias de impresión.
+FileProperties=Editar las propiedades de la imagen.
+FileSaveACopy=Guardar una copia de la imagen actual.
+FileSaveAll=Guardar todas las imágenes.
+FileSaveAs=Guardar la imagen actual en disco como un fichero nuevo.
+FileSave=Guardar la imagen actual en disco.
+FileSelectSource=Seleccionar dipositivo TWAIN.
+FrameAdd=Añadir un nuevo fotograma.
+FrameInsertIntoLeft=Insertar un nuevo fotograma a la izquierda del actual.
+FrameInsertIntoRight=Insertar un nuevo fotograma a la derecha del actual.
+FrameBackFrame=Enviar el fotograma actual atrás.
+FrameCopy=Copiar fotogramas seleccionados.
+FrameCut=Copiar y borrar fotogramas seleccionados.
+FrameDelete=Eliminar fotogramas seleccionados.
+FrameDuplicate=Duplicar un fotograma.
+FrameDuplicateIntoLeft=Duplicar fotograma a la izquierda del actual.
+FrameDuplicateIntoRight=Duplicar fotograma a la derecha del actual.
+FrameForwardFrame=Poner el fotograma actual delante.
+FrameMerge=Fusionar los fotogramas del portapapeles en una única imagen.
+FramePasteToLeft=Pegar fotograma del portapapeles a la izquierda del actual.
+FramePasteToRight=Pegar fotograma del portapapeles a la derecha del actual.
+FramePause=Detener animación previsulizada.
+FramePlay=Reproducir animación en la previsualización.
+FrameProperties=Editar las propiedades del fotograma actual.
+FrameReverse=Invertir el orden de los fotogramas.
+HelpAbout=Mostrar información de la versión.
+HelpContents=Abrir archivo de ayuda.
+ImageAddAlphaChannel=Poner canal alfa a la capa actual.
+ImageAdjustColor=Ajustar color de la imagen.
+ImageCountColorsUsed=Contar el número de colores únicos usados.
+ImageDeleteAlphaChannel=Eliminar canal alfa de la capa actual.
+ImageDuplicateAlphaChannel=Crear una imagen desde el canal alfa.
+ImageEffect=Añadir efectos especiales a la imagen.
+ImageFlipHorizontal=Voltear la imagen horizontalmente.
+ImageFlipVertical=Voltear la imagen verticalmente.
+ImageGrayscale=Cambiar la imagen a escala de grises.
+ImageInvertAlphaChannel=Invertir canal alfa en la capa actual.
+ImageMakeAlphaChannel=Crear canal alfa en la capa actual.
+ImageNegative=Cambiar la imagen a negativo.
+ImageRotateBy90Degrees=Rotar la imagen 90 grados.
+ImageRotate=Rotar la imagen.
+ImageScrollDown=Desplazar la imagen abajo.
+ImageScrollLeft=Desplazar la imagen a la izquierda.
+ImageScrollRight=Desplazar la imagen a la derecha.
+ImageScrollUp=Desplazar la imagen arriva.
+ImageScroll=Desplazar la imagen.
+ImageSlope=Inclinar imagen.
+LayerAdd=Añadir una nueva capa.
+LayerCombine=Combinar capas visibles.
+LayerDelete=Eliminar la capa actual.
+LayerDuplicate=Duplicar la capa actual.
+LayerLockAllAllLayers=Bloquear todas las capas de todos los fotogramas.
+LayerLockAllCurrentFrameLayers=Bloquear todas las capas del fotograma actual.
+LayerLockTransparentAllLayers=Bloquear píxeles transparentes en todas las capas de todos los fotogramas.
+LayerLockTransparentCurrentFrameLayers=Bloquear píxeles transparentes en todas las capas del fotograma actual.
+LayerNotLockAllLayers=Desbloquear todas las capas de todos los fotogramas.
+LayerNotLockCurrentFrameLayers=Desbloquear todas las capas del fotograma actual.
+LayerNextLayer=Poner la capa activa delante.
+LayerPreviousLayer=Poner la capa activa detrás.
+LayerPropertiesWithSameName=Editar las propiedadesd e las capas del mismo nombre.
+LayerProperties=Editar propiedades de la capa actual.
+LayerReverseVisibilityWithSameName=Invertir la visiblidad de las capas del mismo nombre.
+LayerReverseVisibility=Invertir la visiblidad de todas las capas de todos los fotogramas.
+LayerMoveUp=Mover la capa actual arriba
+LayerMoveDown=Mover la capa actual abajo
+PaintModeClear=Nidi borrador.
+PaintModeNormal=Modo pintar.
+PaintModeOpacity=Modo opacidad.
+PaletteCopyRGBValue=Copiar valor RGB al portapapeles.
+PaletteCopyRGBValues=Copiar valores RGB entre el primer y el segundo color al portapapeles.
+PaletteDefaultPalette=Inicializar la paleta a los colores por defecto.
+PaletteDeleteUnused=Eliminar colores no usados.
+PaletteLoadPalette=Cargar paleta de colores desde un archivo.
+PaletteMakeGradation=Crear gradación de color entre el primer y el segundo color.
+PalettePasteRGBValue=Pegar valores de color al portapapeles.
+PaletteReloadPenTile=Recargar archivos de boli y baldosa.
+PaletteOpenPenTileFolder=Abrir carpeta para archivos de boli y baldosa.
+PaletteSavePalette=Guardar en disco la paleta de colores.
+PaletteSelectTransparentColorToFirstColor=Seleccionar el color transparente de la capa actual como primer color.
+PaletteSelectTransparentColorToSecondColor=Seleccionar el color transparente de la capa actual como segundo color.
+PaletteSwapColor=Intercambiar el primer y el segundo color.
+PaletteUniformColors=Uniformar los colores de las imágenes de 1, 4 y 8 bpp.
+PaletteUniteDupli=Unir colores duplicados.
+ToolAntialias=Activar/desactivar efecto antialias.
+ToolColorReplacer=Remplazar el segundo color con el primer color.
+ToolColorSelection=Crear una selección por píxeles con el color seleccionado.
+ToolConnectLine=Dibujar líneas conectadas.
+ToolFilledOval=Dibujar un óvalo relleno.
+ToolFilledRectangle=Dibujar un rectángulo relleno.
+ToolFloodFill=Rellenar la región rodeada por el mismo color.
+ToolLasso=Crear una selección libre.
+ToolMagicWand=Crear una selección por la zona rodeada por el mismo color.
+ToolMover=Mover el área visible.
+ToolOvalSelection=Crear una selección ovalada.
+ToolOval=Dibujar una línea ovalada.
+ToolPen=Dibujar píxeles libremente.
+ToolRectangle=Dibujar una línea rectangular.
+ToolRectangularSelection=Crear una selección rectangular.
+ToolSplineCurve=Dibujar líneas por splines.
+ToolText=Dibujar un texto.
+ToolTransparent=Intercambiar el efecto de transparencia al mover la imagen seleccionada.
+ToolZoom=Cambiar la magnificación.
+ViewActualSize=Ver la imagen sin magnificación.
+ViewFrame=Intercambiar la visibilidad de la ventana de fotogramas.
+ViewGrid=Intercambiar la visiblidad de la ventana de rejilla.
+ViewHistory=Intercambiar la visibilidad de la ventana de historia.
+ViewLayer=Intercambiar la visibilidad de la ventana de capas.
+ViewLoupe=Intercambiar la visibilidad de la ventana de lupa.
+ViewOnionSkin=Intercambiar la visibilidad de la piel de cebolla.
+ViewPalette=Intercambiar la visibilidad de la paleta.
+ViewPreview=Intercambiar la visibilidad de la ventana de previsualización.
+ViewSelectedLine=Intercambiar la visibilidad de la línea seleccionada.
+ViewSnap=Intercambiar el efecto de tomar foto.
+ViewToolbarFrame=Intercambiar la visibilidad de la barra de herramientas de fotogramas.
+ViewToolbarLayer=Intercambiar la visibilidad de la barra de herramientas de capas.
+ViewToolbarMain=Intercambiar la visibilidad de la barra de herramientas principal.
+ViewToolbarTool=Intercambiar la visibilidad de la barra de herramientas de herramientas.
+ViewZoomInResizeWindow=Aumentar el tamaño de la imagen y redimensionar la ventana.
+ViewZoomIn=Aumentar el tamaño de la imagen.
+ViewZoomOutResizeWindow=Disminuir el tamaño de la imagen y redimensionar la ventana.
+ViewZoomOut=Disminuir el tamaño de la imagen.
+ViewCustomGrid=Intercambiar la visibilidad de la rejilla personalizada.
+WindowArrangeIcons=Organizar iconos.
+WindowCascade=Ventanas en cascada.
+WindowCloseAll=Cerrar todas las ventanas.
+WindowDuplicate=Duplicar la ventana actual.
+WindowFitToImage=Ajustar la ventana a la imagen.
+WindowSeparateAnimatedArea=Separar la imagen en animación e imagen estática.
+WindowTileHorizontal=Organizar ventanas horizontalmente.
+WindowTileVertical=Organizar ventanas verticalmente.
+
+[Browser]
+SearchAaborted=La búsqueda se abortó porque el número de archivos llegó a %d.
+SearchingFiles=Buscando archivos...
+PreviewOperate=Drag=Mover Left-Click=Cerrar Right-Click=Menú
+CopyImage=Copiar imagen
+CopyPath=Copiar ruta
+OpenFile=Abrir archivo
+OpenFolder=Abrir carpeta
+PauseAnimation=Pausar animación
+ForwardFrame=Mover fotograma a la derecha
+BackFrame=Mover fotograma a la izquierda
+OpenGale=Abrir con Graphics Gale
+ZoomIn=Aumentar magnificación
+ZoomOut=Disminuir magnificación
+KeepCurrentStatus=Mantener estado actual
+IncludeSubfolder=Incluir subcarpetas
+NotIncludeSubfolder=No incluir subcarpetas
+ManageBookmarks=Gestionar marcadores
+Jump=Saltar
+Subfolder=Subcarpeta
+MaxNumberSearch=Máximo número de ficheros que se puede buscar
+NotifyNumberReachedMax=Notificar cuando el número llegue al máximo
+MaxFileSizeAnime=Tamaño máximo de archivo que se puede mostrar como animación
+MagnifySmalImage=Magnificar imagen pequeña
+RunAnimationAfterAllRead=Ejecutar animaciones después de que todas las imágenes se hayan leído
+AutoZoominPreviewWindow=Auto magnificación en la ventana de previsualización
+SameFolderExists=Alguna carpeta ya existe. ¿Quieres añadirla?
+MyDocuments=Mis documentos
+Desktop=Escritorio
+Detail=Detalles
+Small=Pequeño
+Medium=Mediano
+Large=Grande
+HighQuality=Alta calidad
+BrowseFolder=Buscar carpeta
+IncludeSubfolder=Incluir subcarpetas
+AnimationPreview=Previsualización de animaciones
+Extension=Ext.
+Modified=Modificado
+Refresh=Actualizar
+AddBookmark=Añadir a marcadores
+InputNewName=Introducir nuevo nombre
+Rename=Renombrar
+KeepCurrentStatus=Mantener estado actual
+IncludeSubfolder=Incluir subcarpetas
+NotIncludeSubfolder=No incluir subcarpetas
+FitImageToWindow=Ajustar imagen a la ventana
+
+[Pen]
+Sensitivity=Sensibilizar
+Desensitize=&Desensibilizar
+ExceptWhenMouseButtonIsReleased=&Excepto al liberar el ratón
+
+[Backup]
+Caption=Copia de seguridad
+ErrorFolderNotExist=Error en copia de seguridad: La carpeta para hacer copias de seguridad no existe.
+ErrorCantDeleteFile=Error en copia de seguridad: El archivo no se pudo borrar.
+ErrorCantRenameFile=Error en copia de seguridad: El archivo no se pudo renombrar.
+ErrorCantCopyFile=Error en copia de seguridad: El archivo no se pudo copiar.
+InitializeBackupFolder=La siguiente carpeta se estableció para copias de seguridad.\n%s\nLa carpeta para copias de seguridad se puede cambiar en Preferencias.
+CreateBackup=Crea una copia de seguridad al guardar un archivo.
+FolderForBackup=Carpeta para copias de seguridad
+Generations=Número de generaciones
+
+[AutoSave]
+Caption=Auto guardado
+ErrorFolderNotExist=Error de autoguardado: La carpeta para auto guardado no existe.
+SavesAutomaticallyInEdting=Guarda automáticamente al editar
+FolderForAutoSave=Carpeta para auto guardado
+CountOfActionsUntilSave=Número de acciones hasta guardar
+InClosingAFile=Al cerrar un fichero
+DoesNotSave=No guardar
+SavesAll=Guardar todo
+SavesExistentFilesOnly=Guardar sólo archivos existentes
+
+[ExpandSelection]
+ExpandBy=&Expandir por
+
+[ContractSelection]
+ContractBy=&Contraer por
+
+[Stroke]
+Stroke=Trazo
+Contents=&Contenidos:
+Location=Localización
+Inside=&Dentro
+Center=&Centro
+Outside=&Fuera
+
+[ToolHint]
+AddSelection=Añadir una selección
+InSquare=En un cuadrado
+MoveVerticallyOrHorizontally=Mover vertical u horizontalmente
+KeepAspectRatio=Mantener ratio de aspecto
+RotateBy45Degrees=Rotar 45 grados
+VerticalOrHorizontalLine=Línea vertical u horizontal
+StairstepLine=Linea escalonada
+CancelLastVertex=Cancelar último vértice
+PickUpColorFromCurrentLayer=Recoger color de la capa actual
+PickUpColorAsSecondColor=Recoger color como segundo color

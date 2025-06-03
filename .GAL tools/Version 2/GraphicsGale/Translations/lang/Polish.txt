@@ -1,0 +1,1015 @@
+[Lang]
+ID=7
+Caption=Polski
+Help=GaleUS.chm
+ProportionalFont=MS Sans Serif
+FixedFont=Courier New
+FontSize=14
+
+[Common]
+Cancel=Anuluj
+Abort=Przerwij
+FileName=Nazwa pliku
+Compressed=Skompresowany
+Compression=Kompresja
+AlphaCh=Kana≥ alfa
+WithAlphaCh=Z kana≥em alfa
+Add=Dodaj
+Edit=Edytuj
+Delete=UsuÒ
+Default=Domyúlnie
+Clear=WyczyúÊ
+Width=SzerokoúÊ
+Height=WysokoúÊ
+List=Lista
+Antialias=Wyg≥adzanie
+KeepAspect=Zachowaj proporcje
+Top=GÛra
+Bottom=DÛ≥
+Left=Lewo
+Right=Prawo
+Close=Zamknij
+Option=Opcje
+Folder=Folder
+File=Plik
+Drive=NapÍd
+FileType=Typ pliku
+Size=Rozmiar
+Color=Kolor
+Optimize=Otumalizuj
+Quality=JakoúÊ
+Progressive=Progresywny
+ColorDepth=G≥Íbia koloru
+Dither=Drgania
+Grayscale=Skala szaroúci
+TransparentColor=Kolor przezroczysty
+Value=WartoúÊ
+Interlaced=Z przeplotem
+Palette=Paleta
+PaletteFile=Plik palet
+Comment=Komentarz
+Preset=Preset
+Separator=Separator
+Save=Zapisz
+SaveAs=Zapisz jako
+Reset=Resetuj
+MoveUp=PrzesuÒ w gÛrÍ
+MoveDown=PrzesuÒ w dÛ≥
+Sort=Sortuj
+Path=åcieøka
+Color=Kolor
+Name=Nazwa
+Hex=Hex
+Delay=OpÛünienie
+Disposal=Utylizacja
+FrameNumber=Numer ramki
+FrameName=Nazwa ramki
+Tolerance=Tolerancja
+Fill=Wype≥nienie
+Opacity=Przenikanie
+PreserveTransparency=Zachowaj przezroczystoúÊ
+Font=Czcionka
+Update=Aktualizacja
+Properties=W≥aúciwoúci
+AllFrames=Wszystkie ramki
+Transparency=PrzezroczystoúÊ
+NoChange=Bez zmian
+Back=Wstecz
+Next=Dalej
+Icon=Ikona
+Cursor=Kursor
+Preview=Podglπd
+Frame=Ramka
+Frames=Ramki
+All=Wszystko
+Undo=Cofnij
+Redo=PowtÛrz
+MatchPixels=Dopasuj piksele z kolorami
+ColorTable=Tabela kolorÛw
+Bitmap=Bitmapa
+AnimatedCursor=Animowany kursor
+New=Nowy
+Open=OtwÛrz
+View=Widok
+Image=Obraz
+Capture=PrzechwyÊ
+Window=Okno
+Tool=NarzÍdzia
+Layer=Warstwa
+PopupMenu=Menu kontekstowe
+Function=Funkcja
+Caption=Nag≥Ûwek
+bpp=bpp
+BackgroundColor=Kolor t≥a
+Length=D≥ugoúÊ
+Loop=PÍtla
+Code=Kod
+NumberOfFrames=Liczba klatek
+FileSize=WielkoúÊ pliku
+Negative=Negatyw
+Copy=Kopiuj
+Paste=Wklej
+Move=Przenieú
+MultipleLayers=Wiele warstw
+Crop=Przytnij
+FitImage=Dopasuj do obrazu
+ColorPalette=Paleta kolorÛw
+Load=Za≥aduj
+Swap=ZamieÒ
+Input=Wejúciowe
+Help=Pomoc
+ActualSize=Aktualny rozmiar
+ActualSpeed=Aktualna prÍdkoúÊ
+Slower=Wolniej
+Slowest=Najwolniej
+Faster=Szybciej
+Fastest=Najszybciej
+Main=G≥Ûwne
+None=Brak
+Toolbar=Pasek narzÍdzi
+Setup=Ustawienie
+TrashBox=Kosz
+Both=Oba
+Dockable=Dokowanie
+CursorCoordinates=WspÛ≥rzÍdne kursora
+AutoHide=Autoukrywanie
+KeepAwayFromCursor=Trzymaj siÍ z dala od kursora
+StartEdit=Uruchom edycjÍ
+Key=Klawisz
+System=System
+LoopFirstLast=PÍtla pierwszej i ostatniej
+Confirmation=Potwierdzenie
+CurrentFrame=Bieøπca ramka
+SelectedFrames=Wybrane ramki
+AlignmentLeft=Lewo
+AlignmentCenter=årodek
+AlignmentRight=Prawo
+Tile=Kafel
+Draggable=Przeciπganie
+DateModified=Data modyfikacji
+Search=Szukaj
+
+[Compression]
+Default=Kompresja domyúlna
+No=Bez kompresji
+Nonreversible=Kompresja nieodwracalna
+
+[Magnification]
+Caption=PowiÍkszenie
+InitList=Chcesz zainicjowaÊ listÍ?
+Magnification=PowiÍkszenie(%):
+
+[UniteColor]
+Prompt=Zduplikowane kolory bÍdπ wype≥nione nastÍpujπcym kolorem
+
+[UnusedColor]
+Prompt=Niewykorzystane kolory bÍdπ wype≥nione nastÍpujπcym kolorem
+
+[UniformColor]
+Prompt=Jednolite kolory w obrazach z 1,4,8 w formacie bpp. Wybierz obrazy.
+BtnExtract=Wydobπdü
+BtnApply=Zastosuj
+BtnReselect=Wybierz ponownie
+TotalIsOver=Liczba uøytych kolorÛw we wszystkich zdjÍciach wynosi maksymalnπ liczbÍ [%d] kolorÛw
+MaxNumber=Maksymalna liczba jednolitych kolorÛw wynosi %d
+
+[CustomGrid]
+Caption=Siatka na zamÛwienie
+Visible=Widoczna
+Size=Rozmiar:
+
+[Slope]
+Step=Krok:
+
+[Hotkey]
+Hotkey=Klawisz skrÛtu
+
+[Rotate]
+Angle=Kπt
+Position=Pozycja
+Center=årodek
+
+[Resample]
+Smooth=G≥adkie
+ByPixel=na &Pixel
+ByPercent=na P&rocent
+CurSize=Aktualny rozmiar: 
+
+[RemoveBorder]
+ImageSize=Rozmiar obrazu: 
+
+[Register]
+Caption=Rejestracja
+SWInfo=Ten program jest shareware.\nOkres prÛbny wynosi 30 dni.\nOdwiedü naszπ stronÍ internetowπ do zakupu GraphicsGale.\n\nhttp://www.humanbalance.net/gale/us/
+Name=Nazwisko:
+Mail=e-mail:
+Pass=Has≥o:
+Succeeded=DziÍkujemy za rejestracjÍ GraphicsGale!
+Failed=Nazwisko, adres e-mail lub has≥o jest nieprawid≥owe.
+Purchase=Zakup
+Trial=Ten program jest shareware.\n\nOkres prÛbny wygaúnie za %d dni
+Expired=Up≥ynπ≥ okres prÛbny.\n\nJeúli chcesz nadal korzystaÊ z GraphicsGale, naleøy zakupiÊ oprogramowanie.
+
+[About]
+Caption=O GraphicsGale
+Trial=PrÛbny
+License=Ten produkt jest licencjonowany dla:
+
+[SetAlphaCh]
+Caption=Ustaw kana≥ Alfa
+CreateFrom=UtwÛrz z:
+Source=èrÛd≥o
+CurrentLayerOnly=Tylko bieøπca warstwa
+Invert=Odwrotnie
+CurrentSelection=Aktualny wybÛr
+OpaqueColors=Kolory nieprzezroczyste
+Luminance=Luminancja
+
+[AVI]
+StartFrame=Ramka poczπtkowa:
+EndFrame=Ramka koÒcowa:
+FrameRate=SzybkoúÊ klatek:
+
+[Batch]
+UnableOpen=Nie moøna otworzyÊ "%s"
+UnableSave=Nie moøna zapisaÊ "%s"
+Overwrite=%s\njuø istnieje.\nCzy chcesz go zastπpiÊ?
+Input=Wejúcie
+Output=Wyjúcie
+WhenOverwrite=Kiedy zastÍpowany:
+Convert=K&onwersja
+OverwriteConfirm=Potwierdü
+OverwriteSkip=Przejdü do nastÍpnego
+OverwriteAny=Zastπp dowolne pliki
+ResampleOriginal=Utrzymuj oryginalny
+ResampleSize=Okreúlanie rozmiaru
+ResampleSizeAspect=Okreúlanie rozmiaru (zachowaj proporcje)
+ResamplePercent=Okreslanie procentu
+ColorDepthOriginal=Utrzymuj oryginalny
+TransparentOriginal=Utrzymuj oryginalny
+TransparentNone=Brak przezroczystego koloru
+TransparentValue=Okreúl wartoúÊ
+TransparentTopLeft=Pobierz gÛrny - lewy piksel
+TransparentTopRight=Pobierz gÛrny - prawy piksel
+TransparentBottomLeft=Pobierz dolny - lewy piksel
+TransparentBottomRight=Pobierz dolny - prawy piksel
+BrowseFolder=Znajdü folder...
+SameAsOutput=Tak jak wyjúciowy
+SameAsInput=Tak jak wejúciowy
+
+[AdjustColor]
+Brightness=JasnoúÊ
+Contrast=Kontrast
+GammaCorrection=Korekcja gamma
+Saturation=N&asycenie
+
+[CombineLayers]
+DeleteOriginal=&UsuÒ originalne warstwy
+MakeAlphaCh=Dodaj kana≥ alfa
+
+[ColorDepth]
+PixelFormat=Format pikseli
+Format1=1bpp (2 Kolory)
+Format4=4bpp (16 KolorÛw)
+Format8=8bpp (256 KolorÛw)
+Format15=15bpp (High Color)
+Format16=16bpp (High Color)
+Format24=24bpp (Pe≥ny kolor)
+Colors=Kolory:
+Algorithm=&Algorytm
+Type=Typ
+
+[Cursor]
+HotSpotX=Gorπcy punkt &X:
+HotSpotY=Gorπcy punkt &Y:
+
+[Bookmarks]
+Caption=Zak≥adki
+
+[Effects]
+Amount=Suma:
+Synchronize=&Synchronizuj
+Noise=Szum
+Mosaic=Mozaika
+Light=åwiat≥o
+Buttonize=Rozmiar przycisku
+BorderWidth=SzerokoúÊ obramowania:
+Depth=G≥Íbia:
+Pressed=T≥oczony
+Original=(Orygina≥)
+Blur=Rozmycie
+BlurMore=WiÍcej rozmycia
+Sharpen=OstroúÊ
+SharpenMore=WiÍcej ostroúci
+Noise=Szum
+Mosaic=Mozaika
+FindEdges=Szukanie krawÍdzi
+FindEdges2=Szukanie krawÍdzi2
+Emboss=Wyt≥oczenie
+EmbossMore=WiÍcej wyt≥oczenia
+Light=åwiat≥o
+Spotlight=Reflektror
+Buttonize=Buttonize
+
+[EnlargeCanvas]
+SpecifySize=ProszÍ okreúliÊ wielkoúÊ nowego p≥Ûtna.
+ImagePosition=Pozycja obrazu:
+
+[Export]
+Type=&Typ:
+Columns=Kolomny:
+Prefix=&Prefix:
+OutputBmp=Wyjúciowy jako BMP
+FrameProperties=W≥aúciwoúci ramki:
+OutputCSV=Wyjúciowy jako CSV
+MultipleFiles=Wiele plikÛw
+CombinedImage=Po≥πczone obrazy
+
+[Fill]
+Contents=ZawartoúÊ
+Use=&Uøyte:
+CurrentColor=Aktualny kolor
+PatternFile=Model(plik)
+PatternClipboard=Model(schowek)
+Clear=WyczyúÊ
+Blending=Mieszanie
+
+[DrawText]
+Styles=Style:
+Bold=Pogrubiony
+Italic=Kursywa
+Underline=Podkreúlony
+Strikeout=Przekreúlony
+Border=Granica:
+Pitch=Rozstaw:
+MixBase=Z&mieszany z obrazem bazowym
+Text=T&ekst
+LineSpace=MiÍdzy liniami(&J):
+Alignment=WyrÛwnanie:
+History=&Historia:
+
+[FontPreset]
+IncludeText=Do≥πcz &tekst
+IncludeColor=Do≥πcz kolor
+
+[FrameProperties]
+Delay60=1/60 sek. (dla Video-Game)
+Delay100=1/100 sek. (dla GIF)
+Delay1000=1/1000 sek.
+DelayMultiply=Mnoøenie
+DelayAdd=Dodaj
+DisposeNot=Nie okreúlaj
+DisposeNo=Nie dysponuj
+DisposeBG=Wype≥nij kolorem t≥a
+DisposePrev=PrzywrÛÊ poprzedni
+
+[ImportCombined]
+DividedNum=Podzielona iloúÊ
+PieceSize=Rozmiar elementÛw
+SourceSize=Rozmiar ürÛd≥a:
+
+[ImportMultiple]
+ImportFiles=Import plikÛw:
+
+[LoadPalette]
+Caption=Wczytaj paletÍ
+DragSelect=Przeciπgnij, aby zaznaczyÊ
+ClickPaste=Kliknij, aby wkleiÊ
+ImportFile=Importuj z pliku...
+ImportClipboard=Importuj ze schowka
+
+[Palette]
+CantSaveFormat=Nie moøna zapisaÊ palety w tym formacie.
+CantLoadFormat=Nie moøna za≥adowaÊ palety w tym formacie.
+EmptyData=Dane palety sπ puste.
+MenuMakeGradation=Dodaj gradacje
+
+[PasteRGB]
+WhatWay=W jaki sposÛb
+PasteFirst=Wklej do pierwszego koloru
+PasteSecond=Wklej do drugiego koloru
+PasteMulti=Wklej wiele kolorÛw poczynajπc od pierwszego koloru
+ColorsInClip=%d kolory w schowku
+
+[Print]
+Measure=&Miara
+FitPage=Dopasuj do strony
+PutCenter=UmieúÊ w centrum
+Copies=K&opie:
+To=do
+Layout=Uk≥ad
+NumberOfPages=Liczba stron:
+
+[Properties]
+SinglePalette=Pojedyncza paleta
+DisableTransparency=&Wy≥πcz przezroczystoúÊ warstwy dolnej
+Second=sek.
+MergeAllColorsInUse=Po≥πcz wszystkie kolory w uøyciu
+MatchPixelWidthColor=Zastosuj bieøπce kolory (Dopasuj piksel w kolorze)
+KeepPixelIndex=Zastosuj bieøπce kolory (Zachowaj indeks piksela)
+ColorsInUseAreTooManyToMerge=KolorÛw w uøyciu jest zbyt wiele aby po≥πczyÊ
+
+[Preferences]
+SpaceKey=Space-klawisz
+AltKey=Alt-klawisz
+Assigned=Przypisany
+DuplicateKeys=PodwÛjne klawisze
+UseHalftone=Uøyj pÛ≥tonÛw przy zmniejszeniu (Wolno)
+FitWhenMagnifying=Dopasuj okno przy powiÍkszaniu
+AutoZoomOpening=Auto Zoom przy otwieraniu pliku
+Min=Min.
+Max=Max.
+MinMagnificationGrid=Minimalne powiÍkszenie siatki
+GridColor=Kolor siatki
+CustomGridColor=W≥asny kolor siatki
+TaskPriority=Priorytet zadania
+High=Wysoki
+AutoStart=Auto Start
+ZoomMouseCursor=PowiÍksz obszar wokÛ≥ kursora myszy
+DisplayPenpoint=Wyúwietl punkt piÛra
+ToolbarWidthHidden=SzerokoúÊ paska narzÍdzi w stanie ukrytym
+ToolbarHideDelay=Czas opÛünienia ukrycia paska narzÍdzi
+DisableTransparency=Wy≥πcz przezroczystoúÊ warstwy dolnej (Domyúlna wartoúÊ w≥aúciwoúci)
+NotDialogAddLayer=Nie pokazuj okna dialogowego w dodawanej warstwie
+NotAskDeleteLayer=Nie pytaj o usuwanie warstwy
+DeleteAlphaChCapture=UsuÒ kana≥ alfa w przechwytywanym obrazie z ekranu
+SetTransparentPaste=Ustaw kolor przezroczysty automatycznie we wklejanej warstwie
+DefaultCanvasColor=Kolor pÛ≥Ûtna domyúlnie
+Colors4bpp=4bpp (16 kolorÛw)
+Colors8bpp=8bpp (256 kolorÛw)
+ApplySettingPasteNew=Zastosuj powyøsze ustawienie we wklejanym nowym obrazie
+NotDialogAddFrame=Nie pokazuj okna dialogowego w dodawanej ramce
+NotAskDeleteFrame=Nie pytaj o usuwanie ramki
+DefaultBGColor=Kolor BG domyúlnie
+FillSelectionSecondColor=Wype≥nij wybrane drugim kolorem
+NotEraseSelection=Nie kasuj obrazu przy selekcji
+PickColorCurrentLayer=èrÛd≥o prÛbnika kolorÛw jest warstwπ bieøπcπ (Zmiana przez Shift-klawisz)
+DefaultColorPalette=Domyúlna paleta kolorÛw
+ShowColorBalloon=Pokaø balonik tekstowy z wartoúciπ koloru
+PaletteSize=Rozmiar interfejsu palety
+SyncRGBBar=Synchronizuj pasek koloru RGB do wartoúci bieøπcej
+ShowGrid=Pokaø siatkÍ
+UsageICOTransparency=Zastosuj przezroczystoúÊ ICO
+TransparentColorFrame=Przezroczysty kolor ramki
+AlphaChLayer=Kana≥ alfa na warstwie
+ReplacementColor=Wymiana koloru
+SupportSusiePlugin=Wsparcie Susie Plug-in (wymaga zrestartowania)
+SetAlphaChHiFulleColor=Ustaw kana≥ alfa obrazu na 15,16,24 bpp
+ClearRecentFilenames=WyczyúÊ ostatnie nazwy plikÛw
+JPGQuality=JakoúÊ JPG
+OptimizeGIF=Optymalizacja GIF
+Language=JÍzyk
+RestartRequired=*wymaga ponownego uruchomienia
+AllowMultipleInstances=Zezwalaj na wiele wystπpieÒ
+MaximumUndoLevels=Maksymalna iloúÊ poziomÛw cofania
+AddParent=Dodaj rodzica
+AddSeparator=Dodaj separator
+DefaultDelay=Domyúlne opÛünienie
+SelectionWithRightDrag=WybÛr przez prawy klawisz-przeciπgnij
+PickColorByAltClick=Wybierz kolor przez Alt-klik
+UseWacomTablet=Uøyj tabletu Wacom
+
+[FileDialog]
+BookmarkEdit=Edytuj listÍ
+BookmarkAdd=Dodaj bieøπcy folder do listy
+IconSaveNew=Zapisz na nowo
+IconSaveUpdate=Aktualizacja
+IconSaveCustomize=Dostosuj
+Overwrite=Zastπpione:
+Modified=Zmodyfikowane:
+
+[Message]
+LoupeKeepAway=Okno Lupa bÍdzie trzymaÊ siÍ z dala od kursora myszy.\nAby z≥apaÊ okno, przytrzymaj klawisz Control i przenieú kursor w dÛ≥.
+PreviewKeepAway=Okno podglπdu bÍdzie trzymaÊ siÍ z dala od kursora myszy.\nAby z≥apaÊ okno, przytrzymaj klawisz Control i przenieúÊ kursor w dÛ≥.
+UsedColorNumbers=Liczba unikalnych kolorÛw w bieøπcej warstwie wynosi %d.\nLiczba unikalnych kolorÛw w bieøπcej ramce wynosi %d.\nLiczba unikalnych kolorÛw w pliku wynosi %d.
+MakeGradation=Gradacja kolorÛw bÍdzie zrobiona miÍdzy pierwszym a drugim kolorem.
+InitColorPalette=Paleta kolorÛw zostanie zainicjowana z wartoúciami domyúlnymi.
+CantSeparateAnime=Nie moøna oddzieliÊ bieøπcego obrazu
+ClipImageNotFit=Obraz ze schowka nie pasuje do bieøπcego obrazu.
+SelectOutputFolder=ProszÍ wybraÊ folder wyjúciowy
+Change8bpp=Chcesz zmieniÊ obraz do formatu 8bpp (256 kolorÛw)?
+DeleteSelectedFrame=Wybrane ramki zostanπ usuniÍte.
+DeleteLayer=Ta warstwa zostanie usuniÍta.
+AffectSelectedFrames=Funkcja ta bÍdzie dotyczyÊ wszystkich wybranych ramek.
+
+DontShowThisDialogAgain=Nie pokazuj ponownie tego okna
+PreferencesDeleteHistory=Czy chcesz usunπÊ wszystkie ostatnie nazwy plikÛw z menu Plik?
+SaveAll=Wszystkie obrazy zostanπ zapisane na dysku.
+SaveGifSubBpp=GIF nie obs≥uguje high-color i pe≥nego koloru.\nPowinien zostaÊ zmieniony na obraz w formacie (256 kolorÛw 8bpp).
+ConfirmClose=Plik ten zosta≥ zmieniony. Czy chcesz zapisaÊ zmiany?
+FailedCcreateAVI=Nie uda≥o siÍ utworzyÊ pliku AVI.
+FileBroken=Ten plik jest uszkodzony.
+DeleteSelected=Czy chcesz usunπÊ wybrany element?
+ClearItems=Czy chcesz usunπÊ wszystkie elementy?
+SpecifySome=ProszÍ okreúliÊ "%s".
+LayerLocked=Warstwa jest zablokowana.
+LayerInvisible=Warstwa jest niewidoczna.
+TryLatestVer=Nie moøna za≥adowaÊ tego pliku. WyprÛbuj najnowszπ wersjÍ.
+
+[ActionCategory]
+AllFrames=Wszystkie ramki
+Capture=PrzechwyÊ
+Edit=Edycja
+File=Plik
+Frame=Ramka
+Help=Pomoc
+Image=Obraz
+Layer=Warstwa
+PaintMode=Tryb malowania
+Palette=Paleta
+Tool=NarzÍdzie
+View=Widok
+Window=Okno
+
+[ActionName]
+AllFramesAdjustColor=Dopasuj kolor
+AllFramesColorDepth=G≥Íbia koloru
+AllFramesCrop=Przytnij
+AllFramesRemoveBorder=UsuÒ obramowanie
+AllFramesEnlargeCanvas=PowiÍksz p≥Ûtno
+AllFramesFitToImage=Dopasuj do obrazu
+AllFramesFlipHorizontal=PrzerzuÊ w poziomie
+AllFramesFlipVertical=rzerzuÊ w pionie
+AllFramesGrayscale=Skala szaroúci
+AllFramesNegative=Negatyw
+AllFramesResample=PrzeprÛbkuj
+AllFramesRotate=ObrÛÊ
+AllFramesScroll=PrzewiÒ
+AllFramesSlope=Nachylenie
+CaptureFullScreen=Pe≥ny ekran
+CaptureHotKeySetup=Konfiguracja klawisza skrÛtu
+CaptureWindow=Okno
+EditCopyDisplayImage=Skopiuj obraz ekranu
+EditCopy32bpp=Kopiuj[32bpp]
+EditCopy=Kopiuj
+EditCut=Wytnij
+EditDelete=UsuÒ
+EditDuplicateImages=Duplikuj obraz(y)
+EditFill=Wype≥nienie
+EditGroupedRedo=PonÛw pogrupowane
+EditGroupedUndo=Cofnij pogrupowane
+EditImport=Importuj
+EditInvertSelection=OdwrÛÊ wybÛr
+EditMoveSelectionDown=Przenieú zaznaczone w dÛ≥
+EditMoveSelectionLeft=Przenieú zaznaczone w lewo
+EditMoveSelectionRight=Przenieú zaznaczone w prawo
+EditMoveSelectionUp=Przenieú zaznaczone w gÛrÍ
+EditPaste=Wklej
+EditPasteLayer=Wklej warstwÍ
+EditPasteMove=Wklej/Przenieú
+EditPasteNewImage=Wklej nowy obraz
+EditPickColorFromCurrentLayer=Wybierz kolor z bieøπcej warstwy
+EditPickColor=Wybierz kolor
+EditPickSecondColorFromCurrentLayer=Wybierz drugi kolor z bieøπcej warstwy
+EditPickSecondColor=Wybierz drugi kolor
+EditRedo=PonÛw
+EditSelectAllLayers=Zaznacz wszystkie warstwy
+EditSelectAll=Zaznacz wszystko
+EditUndo=Cofnij
+EditModifySelection=Modyfikuj wybrane
+EditExpandSelection=Rozszerz wybrane
+EditContractSelection=ZamÛw wybrane
+EditStroke=Nachylenie
+FileAcquire=Uzyskaj
+FileBatchConversion=Konwersja wsadowa
+FileBrowse=Przeglπdaj
+FileClose=Zamknij
+FileExit=Wyjúcie
+FileExport=Exportuj
+FileImportFromCombinedImage=Importuj z po≥πczonych obrazÛw
+FileImportFromMultiFiles=Importuj z wielu plikÛw
+FileNew=Nowy
+FileOpen=OtwÛrz
+FilePreferences=Preferencje
+FilePrint=Drukuj
+FilePrinterSetup=Ustawienia drukowania
+FileProperties=W≥aúciwoúci
+FileSaveACopy=Zapisz jako kopiÍ
+FileSaveAll=Zapisz wszystko
+FileSaveAs=Zapisz jako
+FileSave=Zapisz
+FileSelectSource=Wybierz ürÛd≥o
+FrameAdd=Dodaj
+FrameInsertIntoLeft=Wstaw do lewej
+FrameInsertIntoRight=Wstaw do prawej
+FrameBackFrame=Cofnij ramka
+FrameCopy=Kopiuj
+FrameCut=Wytnij
+FrameDelete=UsuÒ
+FrameDuplicate=Duplikuj
+FrameDuplicateIntoLeft=Duplikat do lewej
+FrameDuplicateIntoRight=Duplikat do prawej
+FrameForwardFrame=Ramka dalej
+FrameMerge=Scalanie
+FrameMove=PrzesuÒ ramkÍ
+FramePaste=Wklej ramki
+FramePasteToLeft=Wklej do lewej
+FramePasteToRight=Wklej do prawej
+FramePause=Pauza
+FramePlay=Graj
+FrameProperties=W≥aúciwoúci
+FrameReverse=Odwracaj
+HelpAbout=O programie
+HelpContents=TreúÊ
+ImageAddAlphaChannel=Dodaj kana≥ alfa
+ImageAdjustColor=Dopasuj kolor
+ImageCountColorsUsed=Licznik uøywanych kolorÛw
+ImageDeleteAlphaChannel=UsuÒ kana≥ alfa
+ImageDuplicateAlphaChannel=Duplikuj kana≥ alfa
+ImageEffect=Efekt
+ImageFlipHorizontal=PrzerzuÊ w poziomie
+ImageFlipVertical=PrzerzuÊ w pionie
+ImageGrayscale=Skala szaroúci
+ImageInvertAlphaChannel=OdwrÛÊ kana≥ alfa
+ImageMakeAlphaChannel=UtwÛrz kana≥ alfa
+ImageNegative=Negatyw
+ImageRotateBy90Degrees=ObrÛÊ o 90 stopni
+ImageRotate=ObrÛÊ
+ImageScrollDown=PrzewiÒ w dÛ≥
+ImageScrollLeft=PrzewiÒ w lewo
+ImageScrollRight=PrzewiÒ w prawo
+ImageScrollUp=PrzewiÒ w gÛrÍ
+ImageScroll=PrzewiÒ
+ImageSlope=Nachylenie
+LayerAdd=Dodaj
+LayerAlpha=W≥πcz kana≥ alfa
+LayerCombine=Po≥πcz
+LayerCopy=Kopiuj warstwÍ
+LayerDelete=UsuÒ
+LayerDuplicate=Duplikuj
+LayerLock=Zablokuj warswÍ
+LayerLockCurrentFrame=Zablokuj warstwy w bieøπcej ramce
+LayerLockAllLayers=Zablokuj warstwy we wszystkich ramkach
+LayerLockAllAllLayers=Zablokuj wszystko: Wszystkie warstwy
+LayerLockAllCurrentFrameLayers=Zablokuj wszystko: Warstwy bieøπcej ramki
+LayerLockTransparentAllLayers=Zablokuj przezroczystoúÊ: Wszystkie warstwy
+LayerLockTransparentCurrentFrameLayers=Zablokuj przezroczystoúÊ: Warstwy bieøπcej ramki
+LayerNotLockAllLayers=Odblokuj: Wszystkie warstwy
+LayerNotLockCurrentFrameLayers=Odblokuj: Warstwy bieøπcej ramki
+
+LayerMove=PrzesuÒ warstwÍ
+LayerNextLayer=NastÍpna warstwa
+LayerPreviousLayer=Poprzednia warstwa
+LayerPropertiesWithSameName=W≥aúciwoúci o takiej samej nazwie
+LayerProperties=W≥aúciwoúci
+LayerReverseVisibilityWithSameName=OdwrÛÊ widocznoúÊ o takiej samej nazwie
+LayerReverseVisibility=WidocznoúÊ od ty≥u
+LayerVisible=ZmieÒ widocznoúÊ
+LayerMoveUp=Przenieú w gÛrÍ
+LayerMoveDown=Przenieú w dÛ≥
+PaintModeClear=WyczyúÊ
+PaintModeNormal=Normalny
+PaintModeOpacity=Przenikanie
+PaletteCopy=Kopiuj kolory
+PaletteCopyRGBValue=Kopiuj wartoúÊ RGB
+PaletteCopyRGBValues=Kopiuj wartoúci RGB
+PaletteDefaultPalette=Paleta domyúlna
+PaletteDeleteUnused=UsuÒ nieuøywane kolory
+PaletteLoadPalette=Wczytaj paletÍ
+PaletteMakeGradation=UtwÛrz gradacjÍ
+PaletteMove=Przenieú kolor
+PalettePasteRGBValue=Wklej wartoúÊ RGB
+PaletteReloadPenTile=Odúwieø PiÛro/Kafel 
+PaletteOpenPenTileFolder=OtwÛrz folder PiÛro/Kafel 
+PaletteRGB=Regulacja RGB
+PaletteSavePalette=Zapisz paletÍ
+PaletteSelectTransparentColorToFirstColor=Wybierz kolor przezroczysty jako pierwszy kolor
+PaletteSelectTransparentColorToSecondColor=Wybierz kolor przezroczysty jako drugi kolor
+PaletteSwapColor=Zamiana koloru
+PaletteUniformColors=Jednolite kolory
+PaletteUniteDupli=Zjednocz duplikaty kolorÛw
+ToolAntialias=Wyg≥adzanie
+ToolColorReplacer=Zamiennik kolorÛw
+ToolColorSelection=WybÛr koloru
+ToolConnectLine=Linia po≥πczeniowa
+ToolFilledOval=Wype≥niony owal
+ToolFilledRectangle=Wype≥niony prostokπt
+ToolFloodFill=Wype≥nienie
+ToolLasso=Lasso
+ToolMagicWand=Magiczna rÛødøka
+ToolMover=Przemieszczanie
+ToolOvalSelection=Wybierz owal
+ToolOval=Owal
+ToolPen=PiÛro
+ToolRectangle=Prostokπt
+ToolRectangularSelection=Wybierz prostokπt
+ToolSplineCurve=Krzywa
+ToolText=Rysowanie tekstu
+ToolTransparent=PrzezroczystoúÊ
+ToolZoom=PowiÍkszenie
+ViewActualSize=Aktualny rozmiar
+ViewFrame=Ramka
+ViewGrid=Siatka
+ViewHistory=Historia
+ViewLayer=Warstwa
+ViewLoupe=Lupa
+ViewOnionSkin=SkÛra cebuli
+ViewPalette=Paleta
+ViewPreview=Podglπd
+ViewSelectedLine=WybÛr linii
+ViewSnap=Przyciπganie
+ViewToolbarFrame=Ramka
+ViewToolbarLayer=Warstwa
+ViewToolbarMain=G≥Ûwny
+ViewToolbarTool=NarzÍdzie
+ViewZoomInResizeWindow=PowiÍksz (Zmiana rozmiaru okna)
+ViewZoomIn=PowiÍkszanie
+ViewZoomOutResizeWindow=Pomniejsz (Zmiana rozmiaru okna)
+ViewZoomOut=Pomniejszanie
+ViewCustomGrid=Pokaø siatkÍ na zamÛwienie
+WindowArrangeIcons=RozmieúÊ ikony
+WindowCascade=Kaskadowe
+WindowCloseAll=Zamknij wszystko
+WindowDuplicate=Duplikat
+WindowFitToImage=Dopasuj do obrazu
+WindowSeparateAnimatedArea=Odzielny obszar animowany
+WindowTileHorizontal=Kafel poziomy
+WindowTileVertical=Kafel pionowy
+
+[ActionHint]
+AllFramesAdjustColor=Dopasowywanie koloru.
+AllFramesColorDepth=Zmiana formatu pikseli.
+AllFramesCrop=Kadrowanie obrazu.
+AllFramesRemoveBorder=Usuwanie obramowania obrazu.
+AllFramesEnlargeCanvas=PowiÍkszanie p≥Ûtna.
+AllFramesFitToImage=Usuwanie niepotrzebnych krawÍdzi.
+AllFramesFlipHorizontal=Odwracanie obrazu w poziomie.
+AllFramesFlipVertical=Odwracanie obrazu w pionie.
+AllFramesGrayscale=Zmiana obrazu na skalÍ szaroúci.
+AllFramesNegative=Zmiana obrazu na negatyw.
+AllFramesResample=Zmiana rozmiaru, lub zmiana rozdzielczoúci obrazu.
+AllFramesRotate=Obracanie obrazu.
+AllFramesScroll=Przewijanie obrazu
+AllFramesSlope=Nachylenie obrazu.
+CaptureFullScreen=Przechwytywanie obrazu z pe≥nego ekranu.
+CaptureHotKeySetup=Zmiana klawisza skrÛtu przechwytywania.
+CaptureWindow=Przechwytywanie obrazu z okna.
+EditCopyDisplayImage=Kopiowanie pliku obrazu.
+EditCopy32bpp=Kopiowanie zaznaczonego obszaru jako format 32 bpp pikseli.
+EditCopy=Kopiowanie wybranego obszaru.
+EditCut=Wycinanie wybranego obszaru.
+EditDelete=Usuwanie wybranego obszaru.
+EditDuplicateImages=Duplikat kaødego obrazu na warstwach.
+EditFill=Wype≥nienie wybranego obszaru.
+EditGroupedRedo=PowtÛrzenie dzia≥ania w grupie.
+EditGroupedUndo=CofniÍcie dzia≥ania w grupie.
+EditImport=Importowanie obrazu z pliku.
+EditInvertSelection=OdwrÛcenie zaznaczenia.
+EditMoveSelectionDown=Przenoszenie wybranego obszaru do do≥u.
+EditMoveSelectionLeft=Przenoszenie wybranego obszaru do lewej.
+EditMoveSelectionRight=Przenoszenie wybranego obszaru do prawej.
+EditMoveSelectionUp=Przenoszenie wybranego obszaru do gÛry.
+EditPaste=Wklejanie danych ze schowka do obrazu.
+EditPasteLayer=Wklejanie danych ze schowka do nowej warstwy.
+EditPasteNewImage=Tworzenie nowego obrazu z danych ze schowka.
+EditPickColorFromCurrentLayer=Wybieranie koloru w miejscu kursora z bieøπcej warstwy.
+EditPickColor=Wybieranie koloru w miejscu kursora.
+EditPickSecondColorFromCurrentLayer=Wybieranie koloru w miejscu kursora z bieøπcej warstwy jako drugiego koloru.
+EditPickSecondColor=Wybieranie koloru w miejscu kursora jako drugiego koloru.
+EditRedo=Powtarzanie czynnoúci.
+EditSelectAllLayers=Zaznaczenie wszystkich warstw.
+EditSelectAll=Zaznaczenie wszystkiego.
+EditUndo=Cofanie czynnoúci
+FileAcquire=Uzyskanie obrazu z urzπdzenia TWAIN.
+FileBatchConversion=Konwertowanie wielu plikÛw w jednym czasie.
+FileBrowse=Przeglπdanie zdjÍÊ na dysku.
+FileClose=ZamkniÍcie bieøπcego obrazu.
+FileExit=Wyjúcie z aplikacji.
+FileExport=Zapisywanie bieøπcego obrazu do innego formatu.
+FileImportFromCombinedImage=Importowanie z po≥πczonego obrazu.
+FileImportFromMultiFiles=Importowanie z wielu plikÛw.
+FileNew=Tworzenie nowego obrazu.
+FileOpen=Otwieranie pliku obrazu.
+FilePreferences=Dostosowywanie úrodowiska aplikacji.
+FilePrint=Drukowanie obrazu.
+FilePrinterSetup=Zmiana ustawienia drukarki.
+FileProperties=Edytowanie w≥aúciwoúci obrazu.
+FileSaveACopy=Zapisywanie kopii bieøπcego obrazu.
+FileSaveAll=Zapisywanie wszystkich obrazÛw.
+FileSaveAs=Zapisywanie bieøπcego obrazu na dysku jako nowy plik.
+FileSave=Zapisywanie bieøπcego obrazu na dysku.
+FileSelectSource=WybÛr urzπdzenia TWAIN.
+FrameAdd=Dodawanie nowej ramki.
+FrameInsertIntoLeft=Wstawianie nowej ramki na lewo od bieøπcej ramki.
+FrameInsertIntoRight=Wstawianie nowej ramki na prawo od bieøπcej ramki.
+FrameBackFrame=Ustawianie aktywnej ramki.
+FrameCopy=Kopiowanie wybranych ramek.
+FrameCut=Kopiowanie i usuwanie wybranych ramek.
+FrameDelete=Usuwanie wybranych ramek.
+FrameDuplicate=Duplikowanie ramki.
+FrameDuplicateIntoLeft=Duplikowanie ramki na lewo od bieøπcej ramki.
+FrameDuplicateIntoRight=Duplikowanie ramki na prawo od bieøπcej ramki.
+FrameForwardFrame=Ustawianie aktywnej ramki do przodu.
+FrameMerge=Scalanie ramek ze schowka do bieøπcego obrazu.
+FramePasteToLeft=Wklejanie ze schowka na lewo od bieøπcej ramki.
+FramePasteToRight=Wklejanie ze schowka na prawo od bieøπcej ramki.
+FramePause=Zatrzymanie podglπdu animacji
+FramePlay=Odtwarzanie podglπdu animacji
+FrameProperties=Edytowanie bieøπce w≥aúciwoúci ramki.
+FrameReverse=OdwrÛcenie kolejnoúci ramek.
+HelpAbout=Wyúwietlanie informacji o wersji.
+HelpContents=Otwieranie pliku pomocy.
+ImageAddAlphaChannel=Ustawianie kana≥u alfa do bieøπcej warstwy.
+ImageAdjustColor=Dopasowywanie koloru obrazu.
+ImageCountColorsUsed=Liczy liczbÍ uøywanych unikalnych kolorÛw.
+ImageDeleteAlphaChannel=Usuwanie kana≥u alfa z bieøπcej warstwy.
+ImageDuplicateAlphaChannel=Tworzenie obrazu z kana≥em alfa.
+ImageEffect=Dodawanie efektÛw specjalnych do obrazu.
+ImageFlipHorizontal=Przerzuca obraz w poziomie.
+ImageFlipVertical=Przerzuca obraz w pionie.
+ImageGrayscale=Zmiana obrazu na skalÍ szaroúci.
+ImageInvertAlphaChannel=Odwracanie kana≥u alfa w bieøπcej warstwie.
+ImageMakeAlphaChannel=Dodawanie kana≥u alfa do bieøπcej warstwy.
+ImageNegative=Zmiana obrazu na negatyw.
+ImageRotateBy90Degrees=ObrÛcenie obrazu o 90 stopni.
+ImageRotate=ObrÛcenie obrazu.
+ImageScrollDown=Przewijanie obrazu do do≥u.
+ImageScrollLeft=Przewijanie obrazu do lewej.
+ImageScrollRight=Przewijanie obrazu do prawej.
+ImageScrollUp=Przewijanie obrazu do gÛry.
+ImageScroll=Przewijanie obrazu.
+ImageSlope=Nachylenie obrazu.
+LayerAdd=Dodawanie nowej warstwy
+LayerCombine=Po≥πczenie widocznych warstw.
+LayerDelete=Usuwanie bieøπcej warstwy.
+LayerDuplicate=Duplikat bieøπcej warstwy.
+LayerLockAllAllLayers=Blokowanie wszystkich warstw we wszystkich ramkach.
+LayerLockAllCurrentFrameLayers=Blokowanie wszystkich warstw w bieøπcej ramce.
+LayerLockTransparentAllLayers=Blokowanie przezroczystych pikseli we wszystkich warstwach wszystkich ramek.
+LayerLockTransparentCurrentFrameLayers=Blokowanie przezroczystych pikseli we wszystkich warstwach bieøπcej ramki.
+LayerNotLockAllLayers=Odblokowanie wszystkich warstw we wszystkich ramkach.
+LayerNotLockCurrentFrameLayers=Odblokowanie wszystkich warstww w bieøπcej ramce.
+LayerNextLayer=Ustawianie aktywnej warstwy do przodu.
+LayerPreviousLayer=Ustawianie aktywnej warstwy do ty≥u.
+LayerPropertiesWithSameName=Edytowanie w≥aúciwoúci warstw o takiej samej nazwie.
+LayerProperties=Edytowanie w≥aúciwoúci bieøπcej warstwy.
+LayerReverseVisibilityWithSameName=OdwrÛcenie widocznoúci warstw o takiej samej nazwie.
+LayerReverseVisibility=OdwrÛcenie widocznoúci wszystkich warstw we wszystkich ramkach.
+LayerMoveUp=Przenoszenie bieøπcej warstwy w gÛrÍ.
+LayerMoveDown=Przenoszenie bieøπcej warstwy w dÛ≥.
+PaintModeClear=Tryb wycierania.
+PaintModeNormal=Tryb malowania.
+PaintModeOpacity=Tryb przenikania.
+PaletteCopyRGBValue=Kopiowanie wartoúci RGB do schowka.
+PaletteCopyRGBValues=Kopiowanie wartoúci RGB miÍdzy pierwszym i drugim kolorem do schowka.
+PaletteDefaultPalette=Inicjowanie palety kolorÛw z wartoúciami domyúlnymi.
+PaletteDeleteUnused=Usuwanie nieuøywanych kolorÛw.
+PaletteLoadPalette=£adowanie palety kolorÛw z pliku.
+PaletteMakeGradation=Tworzenie gradacji kolorÛw miÍdzy pierwszym a drugim kolorem.
+PalettePasteRGBValue=Wklejanie wartoúci kolorÛw ze schowka.
+PaletteReloadPenTile=Odúwieøenie plikÛw piÛra i kafla.
+PaletteOpenPenTileFolder=Otwieranie folderu dla plikÛw piÛra i kafla.
+PaletteSavePalette=Zapisywanie palety kolorÛw na dysku.
+PaletteSelectTransparentColorToFirstColor=Wybieranie przezroczystego koloru bieøπcej warstwy jako pierwszego koloru.
+PaletteSelectTransparentColorToSecondColor=Wybieranie przezroczystego koloru bieøπcej warstwy jako drugiego koloru.
+PaletteSwapColor=Zamiana pierwszego koloru na drugi kolor.
+PaletteUniformColors=Jednolite kolory obrazÛw w formacie z 1,4,8 bpp.
+PaletteUniteDupli=Zjednoczenie zduplikowanych kolorÛw.
+ToolAntialias=Prze≥πczanie efektu wyg≥adzania.
+ToolColorReplacer=Wymiana drugiego koloru z pierwszym kolorem.
+ToolColorSelection=Tworzenie zaznaczenia wed≥ug pikseli w okreúlonym kolorze.
+ToolConnectLine=Rysowanie linii po≥πczonych.
+ToolFilledOval=Rysowanie wype≥nionego owalu.
+ToolFilledRectangle=Rysowanie wype≥nionego prostokπta.
+ToolFloodFill=Wype≥nienie obszaru zamkniÍtego tym samym kolorem.
+ToolLasso=OdrÍczne tworzenie zaznaczenia.
+ToolMagicWand=Tworzenie zaznaczenia w obszarze zamkniÍtym okreúlonym kolorem.
+ToolMover=Przenoszenie widocznego obszaru.
+ToolOvalSelection=Tworzenie wybranego owalu.
+ToolOval=Rysowanie linii owalu.
+ToolPen=OdrÍczne rysowanie pikseli.
+ToolRectangle=Rysowanie linii prostokπta.
+ToolRectangularSelection=Tworzenie prostokπtnego zaznaczenia.
+ToolSplineCurve=Rysowanie linii wed≥ug krzywej.
+ToolText=Rysowanie tekstu.
+ToolTransparent=Prze≥πczanie efektu przezroczystoúci podczas przenoszenia wybranego obrazu.
+ToolZoom=Zmiana powiÍkszenia.
+ViewActualSize=Wyúwietlanie obrazu bez powiÍkszenia.
+ViewFrame=Prze≥πczanie widocznoúci okna ramki.
+ViewGrid=Prze≥πczanie widocznoúci siatki.
+ViewHistory=Prze≥πczanie widocznoúci okna historii.
+ViewLayer=Prze≥πczanie widocznoúci okna warstw.
+ViewLoupe=Prze≥πczanie widocznoúci okna lupy.
+ViewOnionSkin=Prze≥πczanie widocznoúci skÛry cebuli.
+ViewPalette=Prze≥πczanie widocznoúci okna palety.
+ViewPreview=Prze≥πczanie widocznoúci okna podglπdu.
+ViewSelectedLine=Prze≥πczanie widocznoúci wyboru linii.
+ViewSnap=Ptrze≥πczanie okna efektu przyciπgania.
+ViewToolbarFrame=Prze≥πczanie widocznoúÊ paska narzÍdzi ramki.
+ViewToolbarLayer=Prze≥πczanie widocznoúÊ paska narzÍdzi warstwy.
+ViewToolbarMain=Prze≥πczanie widocznoúci g≥Ûwnego paska narzÍdzi.
+ViewToolbarTool=Prze≥πczanie widocznoúci narzÍdzi na pasku narzÍdzi.
+ViewZoomInResizeWindow=Przybliøanie obrazu i zmiana rozmiaru okna.
+ViewZoomIn=PowiÍkszanie obrazu.
+ViewZoomOutResizeWindow=Oddalanie obrazu i zmiana rozmiaru okna.
+ViewZoomOut=Pomniejszanie obrazu.
+ViewCustomGrid=Prze≥πczanie widocznoúci siatki w≥asnej.
+WindowArrangeIcons=Rozmieszczanie ikon.
+WindowCascade=Okna kaskadowo.
+WindowCloseAll=Zamykanie wszystkich okien.
+WindowDuplicate=Duplikowanie bieøπcego okna.
+WindowFitToImage=Dopasowanie okna do obrazu.
+WindowSeparateAnimatedArea=Oddzielenie obrazu do animacji i obrazu statycznego.
+WindowTileHorizontal=U≥oøenie okien w poziomie.
+WindowTileVertical=U≥oøenie okien w pionie.
+
+[Browser]
+SearchAaborted=Wyszukiwanie zosta≥a przerwana, poniewaø liczba plikÛw zbliøy≥a siÍ do %d.
+SearchingFiles=Wyszukiwanie plikÛw...
+PreviewOperate=Przeciπgnij=Przenieú Lewy klik=Zamknij Prawy klik=Menu
+CopyImage=Kopiuj obraz
+CopyPath=Kopiuj úcieøkÍ
+OpenFile=OtwÛrz plik
+OpenFolder=OtwÛrz folder
+PauseAnimation=Wstrzymaj animacjÍ
+ForwardFrame=Ramka naprzÛd
+BackFrame=Ramka wstecz
+OpenGale=OtwÛrz z GraphicsGale
+ZoomIn=Przybliø
+ZoomOut=Oddal
+KeepCurrentStatus=Zachowaj obecny status
+IncludeSubfolder=Do≥πcz podfolder
+NotIncludeSubfolder=Nie do≥πczaj podfolderu
+ManageBookmarks=Zarzπdzaj zak≥adkami
+Jump=Skocz
+Subfolder=Podfolder
+MaxNumberSearch=Maksymalna liczba wyszukiwanych plikÛw
+NotifyNumberReachedMax=Powiadamiaj kiedy liczba osiπgnÍ≥a maksymalnπ
+MaxFileSizeAnime=Maksymalny rozmiar pliku wyúwietlanego jako animacja
+MagnifySmalImage=PowiÍksz ma≥y obrazek
+RunAnimationAfterAllRead=Uruchom animacjÍ po odczytaniu wszystkich obrazÛw
+AutoZoominPreviewWindow=Auto Zoom w oknie podglπdu
+SameFolderExists=Sam folder juø istnieje. Czy chcesz dodaÊ?
+MyDocuments=Moje dokumenty
+Desktop=Pulpit
+Detail=SzczegÛ≥y
+Small=Ma≥y
+Medium=åredni
+Large=Duøy
+HighQuality=Wysoka jakoúÊ
+BrowseFolder=Przeglπdaj folder
+IncludeSubfolder=Do≥πcz podfolder
+AnimationPreview=Podglπd animacji
+Extension=Rozszerzenie.
+Modified=Zmodyfikowany
+Refresh=Odúwieø
+AddBookmark=Dodaj do zak≥adek
+InputNewName=Wpisz nowπ nazwÍ
+Rename=Zmiana nazwy
+KeepCurrentStatus=Zachowaj obecny status
+IncludeSubfolder=Do≥πcz podfolder
+NotIncludeSubfolder=Nie do≥πczaj podfolderu
+FitImageToWindow=Dopasuj obraz do okna
+
+[Pen]
+Sensitivity=Czu≥oúÊ
+Desensitize=Odczulenie
+ExceptWhenMouseButtonIsReleased=Z wyjπtkiem gdy przycisk myszy jest zwolniony
+
+[Backup]
+Caption=Kopia zapasowa
+ErrorFolderNotExist=B≥πd kopii zapasowej : Folder do tworzenia kopii zapasowych nie istnieje.
+ErrorCantDeleteFile=B≥πd kopii zapasowej : Plik nie moøe zostaÊ usuniÍty.
+ErrorCantRenameFile=B≥πd kopii zapasowej : Nazwa pliku nie moøe byc zmieniona.
+ErrorCantCopyFile=B≥πd kopii zapasowej : Plik nie moøe byÊ skopiowany.
+InitializeBackupFolder=NastÍpujπcy folder zosta≥ ustawiony jako folder do tworzenia kopii zapasowych.\n%s\nFolder kopii zapasowej moøna zmieniÊ w ustawieniach.
+CreateBackup=Tworzy kopie zapasowe podczas zapisywania pliku.
+FolderForBackup=Folder do tworzenia kopii zapasowych
+Generations=Liczba generacji
+
+[AutoSave]
+Caption=Automatyczne zapisywanie
+ErrorFolderNotExist=B≥πd automayucznego zapisu : Folder do automatycznego zapisu nie istnieje.
+SavesAutomaticallyInEdting=Zapisuje automatycznie w edycji
+FolderForAutoSave=Folder zapisu auto
+CountOfActionsUntilSave=Policz dzia≥ania aø do zapisu
+InClosingAFile=Podczas zamykania pliku
+DoesNotSave=Nie zapisuje
+SavesAll=Zapisuje wszystko
+SavesExistentFilesOnly=Zapisuje tylko istniejπce pliki
+
+[ExpandSelection]
+ExpandBy=RozwiÒ przez
+
+[ContractSelection]
+ContractBy=UmÛw przez
+
+[Stroke]
+Stroke=Stroke
+Contents=TreúÊ:
+Location=Lokalizacja
+Inside=Wewnπtrz
+Center=årodek
+Outside=Na zewnπtrz
+
+[ToolHint]
+AddSelection=Dodaj wybrane
+InSquare=W kwadrat
+MoveVerticallyOrHorizontally=Przenoszenie w pionie lub poziomie
+KeepAspectRatio=Zachowuje proporcje
+RotateBy45Degrees=ObrÛt o 45 stopni
+VerticalOrHorizontalLine=Pionowa lub pozioma linia
+StairstepLine=Linia schodkowa
+CancelLastVertex=Anuluj ostatni wierzcho≥ek
+PickUpColorFromCurrentLayer=Zbierz kolor z bieøπcej warstwy
+PickUpColorAsSecondColor=Zebrany kolor jako drugi kolor
